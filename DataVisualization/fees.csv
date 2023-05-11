@@ -1,0 +1,769 @@
+﻿REF_DATE,GEO,DGUID,Level of study,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2006/2007,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,5711,,,,0
+2006/2007,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6992,,,,0
+2006/2007,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,17363,,,,0
+2006/2007,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,14398,,,,0
+2006/2007,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3417,,,,0
+2006/2007,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2720,,,,0
+2006/2007,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,13170,,,,0
+2006/2007,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3534,,,,0
+2006/2007,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6386,,,,0
+2006/2007,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,3495,,,,0
+2006/2007,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,11642,,,,0
+2006/2007,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,7876,,,,0
+2006/2007,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8335,,,,0
+2006/2007,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,10453,,,,0
+2006/2007,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,16046,,,,0
+2006/2007,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18839,,,,0
+2006/2007,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7099,,,,0
+2006/2007,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6451,,,,0
+2006/2007,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,13797,,,,0
+2006/2007,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11475,,,,0
+2006/2007,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2508,,,,0
+2006/2007,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,2672,,,,0
+2006/2007,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,16003,,,,0
+2006/2007,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,13035,,,,0
+2006/2007,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,6691,,,,0
+2006/2007,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,11019,,,,0
+2006/2007,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,18873,,,,0
+2006/2007,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,19631,,,,0
+2006/2007,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4308,,,,0
+2006/2007,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,6004,,,,0
+2006/2007,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,11839,,,,0
+2006/2007,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11462,,,,0
+2006/2007,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6196,,,,0
+2006/2007,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,3682,,,,0
+2006/2007,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,13464,,,,0
+2006/2007,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,3951,,,,0
+2006/2007,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6182,,,,0
+2006/2007,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,7125,,,,0
+2006/2007,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,16376,,,,0
+2006/2007,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,12551,,,,0
+2006/2007,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6152,,,,0
+2006/2007,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,7275,,,,0
+2006/2007,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,20200,,,,0
+2006/2007,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,11542,,,,0
+2007/2008,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,5788,,,,0
+2007/2008,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7102,,,,0
+2007/2008,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,17712,,,,0
+2007/2008,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15951,,,,0
+2007/2008,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3343,,,,0
+2007/2008,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,4681,,,,0
+2007/2008,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,12190,,,,0
+2007/2008,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,4399,,,,0
+2007/2008,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,5639,,,,0
+2007/2008,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,3651,,,,0
+2007/2008,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,11125,,,,0
+2007/2008,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,7687,,,,0
+2007/2008,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7759,,,,0
+2007/2008,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9343,,,,0
+2007/2008,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15717,,,,0
+2007/2008,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18882,,,,0
+2007/2008,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7099,,,,0
+2007/2008,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6501,,,,0
+2007/2008,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,13957,,,,0
+2007/2008,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11648,,,,0
+2007/2008,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2611,,,,0
+2007/2008,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3010,,,,0
+2007/2008,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,15939,,,,0
+2007/2008,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,13915,,,,0
+2007/2008,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,6843,,,,0
+2007/2008,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10777,,,,0
+2007/2008,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,19995,,,,0
+2007/2008,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,19599,,,,0
+2007/2008,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4154,,,,0
+2007/2008,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5844,,,,0
+2007/2008,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,10740,,,,0
+2007/2008,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11047,,,,0
+2007/2008,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6369,,,,0
+2007/2008,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4487,,,,0
+2007/2008,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,12959,,,,0
+2007/2008,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,4719,,,,0
+2007/2008,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6505,,,,0
+2007/2008,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,7810,,,,0
+2007/2008,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,16902,,,,0
+2007/2008,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,14305,,,,0
+2007/2008,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6251,,,,0
+2007/2008,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8167,,,,0
+2007/2008,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,20907,,,,0
+2007/2008,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,17622,,,,0
+2008/2009,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,5891,,,,0
+2008/2009,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7120,,,,0
+2008/2009,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,18156,,,,0
+2008/2009,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15310,,,,0
+2008/2009,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3250,,,,0
+2008/2009,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3032,,,,0
+2008/2009,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,11569,,,,0
+2008/2009,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3456,,,,0
+2008/2009,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,5622,,,,0
+2008/2009,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,3307,,,,0
+2008/2009,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,11095,,,,0
+2008/2009,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,7630,,,,0
+2008/2009,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7293,,,,0
+2008/2009,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9598,,,,0
+2008/2009,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15395,,,,0
+2008/2009,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,17986,,,,0
+2008/2009,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,6800,,,,0
+2008/2009,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6292,,,,0
+2008/2009,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,13618,,,,0
+2008/2009,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11120,,,,0
+2008/2009,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2705,,,,0
+2008/2009,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,2754,,,,0
+2008/2009,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,16376,,,,0
+2008/2009,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,14081,,,,0
+2008/2009,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,7033,,,,0
+2008/2009,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10246,,,,0
+2008/2009,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,20962,,,,0
+2008/2009,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,18966,,,,0
+2008/2009,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4018,,,,0
+2008/2009,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,4722,,,,0
+2008/2009,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,12025,,,,0
+2008/2009,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,9895,,,,0
+2008/2009,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6285,,,,0
+2008/2009,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,3428,,,,0
+2008/2009,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,12987,,,,0
+2008/2009,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,3119,,,,0
+2008/2009,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6587,,,,0
+2008/2009,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6141,,,,0
+2008/2009,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,17869,,,,0
+2008/2009,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11571,,,,0
+2008/2009,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5890,,,,0
+2008/2009,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8986,,,,0
+2008/2009,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,19084,,,,0
+2008/2009,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,17220,,,,0
+2009/2010,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6117,,,,0
+2009/2010,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6016,,,,0
+2009/2010,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,19734,,,,0
+2009/2010,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,14455,,,,0
+2009/2010,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3248,,,,0
+2009/2010,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3042,,,,0
+2009/2010,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,12766,,,,0
+2009/2010,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3453,,,,0
+2009/2010,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6150,,,,0
+2009/2010,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5064,,,,0
+2009/2010,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,28278,,,,0
+2009/2010,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,9794,,,,0
+2009/2010,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7120,,,,0
+2009/2010,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9532,,,,0
+2009/2010,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15390,,,,0
+2009/2010,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18047,,,,0
+2009/2010,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,6827,,,,0
+2009/2010,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6280,,,,0
+2009/2010,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,13922,,,,0
+2009/2010,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11113,,,,0
+2009/2010,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2858,,,,0
+2009/2010,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3024,,,,0
+2009/2010,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,18403,,,,0
+2009/2010,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,15845,,,,0
+2009/2010,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,7408,,,,0
+2009/2010,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,7743,,,,0
+2009/2010,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,22343,,,,0
+2009/2010,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,17502,,,,0
+2009/2010,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4218,,,,0
+2009/2010,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,4872,,,,0
+2009/2010,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,13821,,,,0
+2009/2010,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,9672,,,,0
+2009/2010,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6403,,,,0
+2009/2010,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,3870,,,,0
+2009/2010,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,15618,,,,0
+2009/2010,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,3466,,,,0
+2009/2010,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6486,,,,0
+2009/2010,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,5690,,,,0
+2009/2010,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,21522,,,,0
+2009/2010,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11477,,,,0
+2009/2010,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5825,,,,0
+2009/2010,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,7711,,,,0
+2009/2010,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,20046,,,,0
+2009/2010,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,12123,,,,0
+2010/2011,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6255,,,,0
+2010/2011,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6565,,,,0
+2010/2011,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,20472,,,,0
+2010/2011,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15395,,,,0
+2010/2011,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3220,,,,0
+2010/2011,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2985,,,,0
+2010/2011,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,11860,,,,0
+2010/2011,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3391,,,,0
+2010/2011,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6236,,,,0
+2010/2011,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,4756,,,,0
+2010/2011,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,28365,,,,0
+2010/2011,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,9755,,,,0
+2010/2011,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,6681,,,,0
+2010/2011,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,8699,,,,0
+2010/2011,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15112,,,,0
+2010/2011,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,17411,,,,0
+2010/2011,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,6864,,,,0
+2010/2011,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6119,,,,0
+2010/2011,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14172,,,,0
+2010/2011,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,10897,,,,0
+2010/2011,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2930,,,,0
+2010/2011,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3161,,,,0
+2010/2011,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,19446,,,,0
+2010/2011,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,17774,,,,0
+2010/2011,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,7677,,,,0
+2010/2011,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,8728,,,,0
+2010/2011,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,23213,,,,0
+2010/2011,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,18135,,,,0
+2010/2011,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4367,,,,0
+2010/2011,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5022,,,,0
+2010/2011,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,14286,,,,0
+2010/2011,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,9972,,,,0
+2010/2011,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6601,,,,0
+2010/2011,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4174,,,,0
+2010/2011,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,16791,,,,0
+2010/2011,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,4275,,,,0
+2010/2011,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6691,,,,0
+2010/2011,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,5679,,,,0
+2010/2011,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,21455,,,,0
+2010/2011,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11435,,,,0
+2010/2011,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5783,,,,0
+2010/2011,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8725,,,,0
+2010/2011,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,20869,,,,0
+2010/2011,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,13285,,,,0
+2011/2012,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6275,,,,0
+2011/2012,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6436,,,,0
+2011/2012,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,20866,,,,0
+2011/2012,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15158,,,,0
+2011/2012,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3128,,,,0
+2011/2012,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2900,,,,0
+2011/2012,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,11524,,,,0
+2011/2012,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3294,,,,0
+2011/2012,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6210,,,,0
+2011/2012,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,4714,,,,0
+2011/2012,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,28640,,,,0
+2011/2012,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,11066,,,,0
+2011/2012,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,6758,,,,0
+2011/2012,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,8771,,,,0
+2011/2012,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15216,,,,0
+2011/2012,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,17799,,,,0
+2011/2012,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,6765,,,,0
+2011/2012,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6210,,,,0
+2011/2012,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14290,,,,0
+2011/2012,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,10866,,,,0
+2011/2012,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2976,,,,0
+2011/2012,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3210,,,,0
+2011/2012,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,19323,,,,0
+2011/2012,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16860,,,,0
+2011/2012,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8048,,,,0
+2011/2012,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9072,,,,0
+2011/2012,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,24844,,,,0
+2011/2012,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,18828,,,,0
+2011/2012,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4296,,,,0
+2011/2012,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,4928,,,,0
+2011/2012,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,13953,,,,0
+2011/2012,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,9787,,,,0
+2011/2012,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,6772,,,,0
+2011/2012,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4067,,,,0
+2011/2012,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,17425,,,,0
+2011/2012,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,4606,,,,0
+2011/2012,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6688,,,,0
+2011/2012,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,5522,,,,0
+2011/2012,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,21854,,,,0
+2011/2012,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11147,,,,0
+2011/2012,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5809,,,,0
+2011/2012,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8789,,,,0
+2011/2012,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,21488,,,,0
+2011/2012,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,13296,,,,0
+2012/2013,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6499,,,,0
+2012/2013,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6883,,,,0
+2012/2013,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,21254,,,,0
+2012/2013,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15311,,,,0
+2012/2013,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3076,,,,0
+2012/2013,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2877,,,,0
+2012/2013,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10501,,,,0
+2012/2013,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3288,,,,0
+2012/2013,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6369,,,,0
+2012/2013,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5514,,,,0
+2012/2013,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,24295,,,,0
+2012/2013,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12162,,,,0
+2012/2013,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,6954,,,,0
+2012/2013,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9002,,,,0
+2012/2013,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15301,,,,0
+2012/2013,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18313,,,,0
+2012/2013,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,6911,,,,0
+2012/2013,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6332,,,,0
+2012/2013,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14395,,,,0
+2012/2013,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11140,,,,0
+2012/2013,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,2984,,,,0
+2012/2013,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3138,,,,0
+2012/2013,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,19396,,,,0
+2012/2013,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16664,,,,0
+2012/2013,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8116,,,,0
+2012/2013,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9619,,,,0
+2012/2013,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,25440,,,,0
+2012/2013,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,19378,,,,0
+2012/2013,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4328,,,,0
+2012/2013,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,4996,,,,0
+2012/2013,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,14296,,,,0
+2012/2013,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,9957,,,,0
+2012/2013,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7104,,,,0
+2012/2013,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4996,,,,0
+2012/2013,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,18711,,,,0
+2012/2013,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,5922,,,,0
+2012/2013,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6597,,,,0
+2012/2013,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,5556,,,,0
+2012/2013,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,21708,,,,0
+2012/2013,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11031,,,,0
+2012/2013,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5737,,,,0
+2012/2013,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8566,,,,0
+2012/2013,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,19767,,,,0
+2012/2013,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,13407,,,,0
+2013/2014,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6650,,,,0
+2013/2014,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,6962,,,,0
+2013/2014,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,22388,,,,0
+2013/2014,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15555,,,,0
+2013/2014,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3034,,,,0
+2013/2014,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2890,,,,0
+2013/2014,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10387,,,,0
+2013/2014,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3284,,,,0
+2013/2014,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6559,,,,0
+2013/2014,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5558,,,,0
+2013/2014,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,24454,,,,0
+2013/2014,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12430,,,,0
+2013/2014,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7166,,,,0
+2013/2014,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9275,,,,0
+2013/2014,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15888,,,,0
+2013/2014,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18366,,,,0
+2013/2014,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7048,,,,0
+2013/2014,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6462,,,,0
+2013/2014,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14824,,,,0
+2013/2014,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11524,,,,0
+2013/2014,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3064,,,,0
+2013/2014,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3143,,,,0
+2013/2014,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,20169,,,,0
+2013/2014,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,15867,,,,0
+2013/2014,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8368,,,,0
+2013/2014,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9767,,,,0
+2013/2014,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,27315,,,,0
+2013/2014,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,20546,,,,0
+2013/2014,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4370,,,,0
+2013/2014,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5024,,,,0
+2013/2014,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,14515,,,,0
+2013/2014,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,10002,,,,0
+2013/2014,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7382,,,,0
+2013/2014,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4163,,,,0
+2013/2014,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,19209,,,,0
+2013/2014,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,5552,,,,0
+2013/2014,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6544,,,,0
+2013/2014,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,5701,,,,0
+2013/2014,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,21783,,,,0
+2013/2014,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11035,,,,0
+2013/2014,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5786,,,,0
+2013/2014,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8712,,,,0
+2013/2014,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,20600,,,,0
+2013/2014,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,14279,,,,0
+2014/2015,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6784,,,,0
+2014/2015,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7120,,,,0
+2014/2015,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,23290,,,,0
+2014/2015,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,15731,,,,0
+2014/2015,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3008,,,,0
+2014/2015,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2798,,,,0
+2014/2015,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10113,,,,0
+2014/2015,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3192,,,,0
+2014/2015,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6615,,,,0
+2014/2015,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5480,,,,0
+2014/2015,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,24461,,,,0
+2014/2015,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12487,,,,0
+2014/2015,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7332,,,,0
+2014/2015,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9254,,,,0
+2014/2015,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,15988,,,,0
+2014/2015,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18641,,,,0
+2014/2015,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7123,,,,0
+2014/2015,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6513,,,,0
+2014/2015,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14943,,,,0
+2014/2015,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11726,,,,0
+2014/2015,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3099,,,,0
+2014/2015,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3189,,,,0
+2014/2015,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,20751,,,,0
+2014/2015,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,15892,,,,0
+2014/2015,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8553,,,,0
+2014/2015,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9906,,,,0
+2014/2015,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,28718,,,,0
+2014/2015,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,21281,,,,0
+2014/2015,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4362,,,,0
+2014/2015,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5053,,,,0
+2014/2015,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,14697,,,,0
+2014/2015,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,10040,,,,0
+2014/2015,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7570,,,,0
+2014/2015,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4250,,,,0
+2014/2015,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,19646,,,,0
+2014/2015,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,5895,,,,0
+2014/2015,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6490,,,,0
+2014/2015,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6464,,,,0
+2014/2015,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22423,,,,0
+2014/2015,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11025,,,,0
+2014/2015,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5882,,,,0
+2014/2015,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,8650,,,,0
+2014/2015,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,21432,,,,0
+2014/2015,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,13424,,,,0
+2015/2016,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6936,,,,0
+2015/2016,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7312,,,,0
+2015/2016,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,24994,,,,0
+2015/2016,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,16240,,,,0
+2015/2016,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3086,,,,0
+2015/2016,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2768,,,,0
+2015/2016,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10469,,,,0
+2015/2016,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3143,,,,0
+2015/2016,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6856,,,,0
+2015/2016,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5466,,,,0
+2015/2016,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,24770,,,,0
+2015/2016,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,11840,,,,0
+2015/2016,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,7644,,,,0
+2015/2016,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9439,,,,0
+2015/2016,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,16447,,,,0
+2015/2016,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,18568,,,,0
+2015/2016,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7135,,,,0
+2015/2016,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6417,,,,0
+2015/2016,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,14680,,,,0
+2015/2016,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,11668,,,,0
+2015/2016,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3128,,,,0
+2015/2016,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3188,,,,0
+2015/2016,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,22671,,,,0
+2015/2016,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16028,,,,0
+2015/2016,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8797,,,,0
+2015/2016,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10262,,,,0
+2015/2016,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,30900,,,,0
+2015/2016,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,22289,,,,0
+2015/2016,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4488,,,,0
+2015/2016,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5138,,,,0
+2015/2016,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,16089,,,,0
+2015/2016,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11221,,,,0
+2015/2016,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7805,,,,0
+2015/2016,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4237,,,,0
+2015/2016,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,20240,,,,0
+2015/2016,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6166,,,,0
+2015/2016,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6419,,,,0
+2015/2016,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6280,,,,0
+2015/2016,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22830,,,,0
+2015/2016,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,10059,,,,0
+2015/2016,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6036,,,,0
+2015/2016,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9241,,,,0
+2015/2016,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,22912,,,,0
+2015/2016,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,14403,,,,0
+2016/2017,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,7030,,,,0
+2016/2017,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7481,,,,0
+2016/2017,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,26111,,,,0
+2016/2017,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,17007,,,,0
+2016/2017,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3035,,,,0
+2016/2017,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3035,,,,0
+2016/2017,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10279,,,,0
+2016/2017,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3500,,,,0
+2016/2017,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6959,,,,0
+2016/2017,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5649,,,,0
+2016/2017,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,24148,,,,0
+2016/2017,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12371,,,,0
+2016/2017,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8075,,,,0
+2016/2017,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9503,,,,0
+2016/2017,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,17366,,,,0
+2016/2017,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,19478,,,,0
+2016/2017,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7404,,,,0
+2016/2017,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6565,,,,0
+2016/2017,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,15074,,,,0
+2016/2017,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12103,,,,0
+2016/2017,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3107,,,,0
+2016/2017,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3203,,,,0
+2016/2017,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,22691,,,,0
+2016/2017,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16051,,,,0
+2016/2017,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8992,,,,0
+2016/2017,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10718,,,,0
+2016/2017,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,32997,,,,0
+2016/2017,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,23449,,,,0
+2016/2017,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4520,,,,0
+2016/2017,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5129,,,,0
+2016/2017,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,16046,,,,0
+2016/2017,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11192,,,,0
+2016/2017,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7766,,,,0
+2016/2017,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4261,,,,0
+2016/2017,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,20590,,,,0
+2016/2017,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6404,,,,0
+2016/2017,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6332,,,,0
+2016/2017,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6236,,,,0
+2016/2017,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22719,,,,0
+2016/2017,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,10065,,,,0
+2016/2017,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6091,,,,0
+2016/2017,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9098,,,,0
+2016/2017,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,23998,,,,0
+2016/2017,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,16348,,,,0
+2017/2018,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,7186,,,,0
+2017/2018,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7514,,,,0
+2017/2018,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,27743,,,,0
+2017/2018,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,17728,,,,0
+2017/2018,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3063,,,,0
+2017/2018,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3014,,,,0
+2017/2018,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,10035,,,,0
+2017/2018,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,3452,,,,0
+2017/2018,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,7042,,,,0
+2017/2018,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5340,,,,0
+2017/2018,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,23003,,,,0
+2017/2018,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12791,,,,0
+2017/2018,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8381,,,,0
+2017/2018,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9724,,,,0
+2017/2018,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,18153,,,,0
+2017/2018,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,19924,,,,0
+2017/2018,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7501,,,,0
+2017/2018,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6612,,,,0
+2017/2018,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,15063,,,,0
+2017/2018,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12211,,,,0
+2017/2018,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3127,,,,0
+2017/2018,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3232,,,,0
+2017/2018,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,23001,,,,0
+2017/2018,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16241,,,,0
+2017/2018,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,9251,,,,0
+2017/2018,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10625,,,,0
+2017/2018,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,35161,,,,0
+2017/2018,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,24135,,,,0
+2017/2018,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4590,,,,0
+2017/2018,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5191,,,,0
+2017/2018,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,15871,,,,0
+2017/2018,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11201,,,,0
+2017/2018,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7880,,,,0
+2017/2018,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,3830,,,,0
+2017/2018,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,20823,,,,0
+2017/2018,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6097,,,,0
+2017/2018,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6229,,,,0
+2017/2018,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6238,,,,0
+2017/2018,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22850,,,,0
+2017/2018,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,12656,,,,0
+2017/2018,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6156,,,,0
+2017/2018,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9292,,,,0
+2017/2018,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,26345,,,,0
+2017/2018,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,17576,,,,0
+2018/2019,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,7241,,,,0
+2018/2019,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7842,,,,0
+2018/2019,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,29310,,,,0
+2018/2019,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,18040,,,,0
+2018/2019,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3154,,,,0
+2018/2019,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3131,,,,0
+2018/2019,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,12782,,,,0
+2018/2019,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,4332,,,,0
+2018/2019,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,7040,,,,0
+2018/2019,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5198,,,,0
+2018/2019,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,22277,,,,0
+2018/2019,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,12789,,,,0
+2018/2019,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8583,,,,0
+2018/2019,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9743,,,,0
+2018/2019,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,18808,,,,0
+2018/2019,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,20466,,,,0
+2018/2019,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7545,,,,0
+2018/2019,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6647,,,,0
+2018/2019,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,15558,,,,0
+2018/2019,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12358,,,,0
+2018/2019,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3138,,,,0
+2018/2019,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3248,,,,0
+2018/2019,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,24008,,,,0
+2018/2019,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,16266,,,,0
+2018/2019,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,9333,,,,0
+2018/2019,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,11097,,,,0
+2018/2019,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,37182,,,,0
+2018/2019,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,23912,,,,0
+2018/2019,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4736,,,,0
+2018/2019,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5070,,,,0
+2018/2019,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,16502,,,,0
+2018/2019,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11232,,,,0
+2018/2019,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,7973,,,,0
+2018/2019,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4554,,,,0
+2018/2019,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,21407,,,,0
+2018/2019,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6666,,,,0
+2018/2019,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6064,,,,0
+2018/2019,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6632,,,,0
+2018/2019,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22812,,,,0
+2018/2019,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,14240,,,,0
+2018/2019,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6163,,,,0
+2018/2019,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9374,,,,0
+2018/2019,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,27298,,,,0
+2018/2019,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,18303,,,,0
+2018/2019,Yukon,2016A000260,Canadian undergraduate,Constant dollars,370,units,0,v1411954069,12.1,3726,,,,0
+2018/2019,Yukon,2016A000260,Canadian graduate,Constant dollars,370,units,0,v1411954070,12.2,,..,,,0
+2018/2019,Yukon,2016A000260,International undergraduate,Constant dollars,370,units,0,v1411954071,12.3,,..,,,0
+2018/2019,Yukon,2016A000260,International graduate,Constant dollars,370,units,0,v1411954072,12.4,,..,,,0
+2019/2020,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6734,,,,0
+2019/2020,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7482,,,,0
+2019/2020,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,31113,,,,0
+2019/2020,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,18672,,,,0
+2019/2020,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3098,,,,0
+2019/2020,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3013,,,,0
+2019/2020,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,12476,,,,0
+2019/2020,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,4257,,,,0
+2019/2020,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,7026,,,,0
+2019/2020,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5202,,,,0
+2019/2020,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,21533,,,,0
+2019/2020,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,10493,,,,0
+2019/2020,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8827,,,,0
+2019/2020,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,9891,,,,0
+2019/2020,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,19388,,,,0
+2019/2020,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,21452,,,,0
+2019/2020,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7908,,,,0
+2019/2020,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6689,,,,0
+2019/2020,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,16817,,,,0
+2019/2020,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12496,,,,0
+2019/2020,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3186,,,,0
+2019/2020,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3388,,,,0
+2019/2020,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,25275,,,,0
+2019/2020,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,17144,,,,0
+2019/2020,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8258,,,,0
+2019/2020,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9996,,,,0
+2019/2020,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,39677,,,,0
+2019/2020,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,24809,,,,0
+2019/2020,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4888,,,,0
+2019/2020,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5278,,,,0
+2019/2020,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,16845,,,,0
+2019/2020,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11602,,,,0
+2019/2020,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,8119,,,,0
+2019/2020,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4525,,,,0
+2019/2020,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,21456,,,,0
+2019/2020,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6763,,,,0
+2019/2020,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,5926,,,,0
+2019/2020,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,7027,,,,0
+2019/2020,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,22785,,,,0
+2019/2020,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,11760,,,,0
+2019/2020,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6180,,,,0
+2019/2020,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9420,,,,0
+2019/2020,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,28404,,,,0
+2019/2020,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,19948,,,,0
+2019/2020,Yukon,2016A000260,Canadian undergraduate,Constant dollars,370,units,0,v1411954069,12.1,3967,,,,0
+2019/2020,Yukon,2016A000260,Canadian graduate,Constant dollars,370,units,0,v1411954070,12.2,,..,,,0
+2019/2020,Yukon,2016A000260,International undergraduate,Constant dollars,370,units,0,v1411954071,12.3,,..,,,0
+2019/2020,Yukon,2016A000260,International graduate,Constant dollars,370,units,0,v1411954072,12.4,,..,,,0
+2020/2021,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6801,,,,0
+2020/2021,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7608,,,,0
+2020/2021,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,33115,,,,0
+2020/2021,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,20081,,,,0
+2020/2021,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3181,,,,0
+2020/2021,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,2920,,,,0
+2020/2021,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,12441,,,,0
+2020/2021,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,4219,,,,0
+2020/2021,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,7112,,,,0
+2020/2021,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5309,,,,0
+2020/2021,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,20814,,,,0
+2020/2021,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,10813,,,,0
+2020/2021,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,9040,,,,0
+2020/2021,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,10185,,,,0
+2020/2021,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,20187,,,,0
+2020/2021,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,22734,,,,0
+2020/2021,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,8000,,,,0
+2020/2021,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6902,,,,0
+2020/2021,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,16241,,,,0
+2020/2021,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,13079,,,,0
+2020/2021,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3258,,,,0
+2020/2021,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3425,,,,0
+2020/2021,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,26929,,,,0
+2020/2021,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,18305,,,,0
+2020/2021,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,8205,,,,0
+2020/2021,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,10066,,,,0
+2020/2021,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,41886,,,,0
+2020/2021,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,26378,,,,0
+2020/2021,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,5066,,,,0
+2020/2021,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5395,,,,0
+2020/2021,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,17628,,,,0
+2020/2021,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11858,,,,0
+2020/2021,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,8512,,,,0
+2020/2021,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4517,,,,0
+2020/2021,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,21235,,,,0
+2020/2021,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,6754,,,,0
+2020/2021,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6316,,,,0
+2020/2021,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6897,,,,0
+2020/2021,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,28101,,,,0
+2020/2021,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,15350,,,,0
+2020/2021,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6191,,,,0
+2020/2021,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9901,,,,0
+2020/2021,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,29294,,,,0
+2020/2021,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,20476,,,,0
+2020/2021,Yukon,2016A000260,Canadian undergraduate,Constant dollars,370,units,0,v1411954069,12.1,4062,,,,0
+2020/2021,Yukon,2016A000260,Canadian graduate,Constant dollars,370,units,0,v1411954070,12.2,,..,,,0
+2020/2021,Yukon,2016A000260,International undergraduate,Constant dollars,370,units,0,v1411954071,12.3,,..,,,0
+2020/2021,Yukon,2016A000260,International graduate,Constant dollars,370,units,0,v1411954072,12.4,,..,,,0
+2021/2022,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6660,,,,0
+2021/2022,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7315,,,,0
+2021/2022,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,33446,,,,0
+2021/2022,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,20246,,,,0
+2021/2022,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3025,,,,0
+2021/2022,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3386,,,,0
+2021/2022,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,11939,,,,0
+2021/2022,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,4864,,,,0
+2021/2022,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6951,,,,0
+2021/2022,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5273,,,,0
+2021/2022,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,19284,,,,0
+2021/2022,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,10676,,,,0
+2021/2022,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,9035,,,,0
+2021/2022,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,10277,,,,0
+2021/2022,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,20120,,,,0
+2021/2022,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,22197,,,,0
+2021/2022,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7995,,,,0
+2021/2022,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,7020,,,,0
+2021/2022,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,16475,,,,0
+2021/2022,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12935,,,,0
+2021/2022,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3272,,,,0
+2021/2022,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3490,,,,0
+2021/2022,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,27311,,,,0
+2021/2022,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,18613,,,,0
+2021/2022,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,7850,,,,0
+2021/2022,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,9327,,,,0
+2021/2022,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,41744,,,,0
+2021/2022,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,26196,,,,0
+2021/2022,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,5064,,,,0
+2021/2022,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5373,,,,0
+2021/2022,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,17760,,,,0
+2021/2022,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11944,,,,0
+2021/2022,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,8455,,,,0
+2021/2022,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4757,,,,0
+2021/2022,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,22008,,,,0
+2021/2022,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,7610,,,,0
+2021/2022,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6582,,,,0
+2021/2022,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6764,,,,0
+2021/2022,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,27714,,,,0
+2021/2022,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,15146,,,,0
+2021/2022,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,6134,,,,0
+2021/2022,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9823,,,,0
+2021/2022,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,31095,,,,0
+2021/2022,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,20901,,,,0
+2021/2022,Yukon,2016A000260,Canadian undergraduate,Constant dollars,370,units,0,v1411954069,12.1,4005,,,,0
+2021/2022,Yukon,2016A000260,Canadian graduate,Constant dollars,370,units,0,v1411954070,12.2,,..,,,0
+2021/2022,Yukon,2016A000260,International undergraduate,Constant dollars,370,units,0,v1411954071,12.3,,..,,,0
+2021/2022,Yukon,2016A000260,International graduate,Constant dollars,370,units,0,v1411954072,12.4,,..,,,0
+2022/2023,Canada,2016A000011124,Canadian undergraduate,Constant dollars,370,units,0,v1411954025,1.1,6482,,,,0
+2022/2023,Canada,2016A000011124,Canadian graduate,Constant dollars,370,units,0,v1411954026,1.2,7054,,,,0
+2022/2023,Canada,2016A000011124,International undergraduate,Constant dollars,370,units,0,v1411954027,1.3,34260,,,,0
+2022/2023,Canada,2016A000011124,International graduate,Constant dollars,370,units,0,v1411954028,1.4,20022,,,,0
+2022/2023,Newfoundland and Labrador,2016A000210,Canadian undergraduate,Constant dollars,370,units,0,v1411954029,2.1,3225,,,,0
+2022/2023,Newfoundland and Labrador,2016A000210,Canadian graduate,Constant dollars,370,units,0,v1411954030,2.2,3565,,,,0
+2022/2023,Newfoundland and Labrador,2016A000210,International undergraduate,Constant dollars,370,units,0,v1411954031,2.3,15920,,,,0
+2022/2023,Newfoundland and Labrador,2016A000210,International graduate,Constant dollars,370,units,0,v1411954032,2.4,5052,,,,0
+2022/2023,Prince Edward Island,2016A000211,Canadian undergraduate,Constant dollars,370,units,0,v1411954033,3.1,6717,,,,0
+2022/2023,Prince Edward Island,2016A000211,Canadian graduate,Constant dollars,370,units,0,v1411954034,3.2,5097,,,,0
+2022/2023,Prince Edward Island,2016A000211,International undergraduate,Constant dollars,370,units,0,v1411954035,3.3,18652,,,,0
+2022/2023,Prince Edward Island,2016A000211,International graduate,Constant dollars,370,units,0,v1411954036,3.4,10327,,,,0
+2022/2023,Nova Scotia,2016A000212,Canadian undergraduate,Constant dollars,370,units,0,v1411954037,4.1,8847,,,,0
+2022/2023,Nova Scotia,2016A000212,Canadian graduate,Constant dollars,370,units,0,v1411954038,4.2,10045,,,,0
+2022/2023,Nova Scotia,2016A000212,International undergraduate,Constant dollars,370,units,0,v1411954039,4.3,20129,,,,0
+2022/2023,Nova Scotia,2016A000212,International graduate,Constant dollars,370,units,0,v1411954040,4.4,22075,,,,0
+2022/2023,New Brunswick,2016A000213,Canadian undergraduate,Constant dollars,370,units,0,v1411954041,5.1,7857,,,,0
+2022/2023,New Brunswick,2016A000213,Canadian graduate,Constant dollars,370,units,0,v1411954042,5.2,6897,,,,0
+2022/2023,New Brunswick,2016A000213,International undergraduate,Constant dollars,370,units,0,v1411954043,5.3,16146,,,,0
+2022/2023,New Brunswick,2016A000213,International graduate,Constant dollars,370,units,0,v1411954044,5.4,12735,,,,0
+2022/2023,Quebec,2016A000224,Canadian undergraduate,Constant dollars,370,units,0,v1411954045,6.1,3186,,,,0
+2022/2023,Quebec,2016A000224,Canadian graduate,Constant dollars,370,units,0,v1411954046,6.2,3397,,,,0
+2022/2023,Quebec,2016A000224,International undergraduate,Constant dollars,370,units,0,v1411954047,6.3,28289,,,,0
+2022/2023,Quebec,2016A000224,International graduate,Constant dollars,370,units,0,v1411954048,6.4,18293,,,,0
+2022/2023,Ontario,2016A000235,Canadian undergraduate,Constant dollars,370,units,0,v1411954049,7.1,7512,,,,0
+2022/2023,Ontario,2016A000235,Canadian graduate,Constant dollars,370,units,0,v1411954050,7.2,8901,,,,0
+2022/2023,Ontario,2016A000235,International undergraduate,Constant dollars,370,units,0,v1411954051,7.3,42909,,,,0
+2022/2023,Ontario,2016A000235,International graduate,Constant dollars,370,units,0,v1411954052,7.4,25749,,,,0
+2022/2023,Manitoba,2016A000246,Canadian undergraduate,Constant dollars,370,units,0,v1411954053,8.1,4980,,,,0
+2022/2023,Manitoba,2016A000246,Canadian graduate,Constant dollars,370,units,0,v1411954054,8.2,5286,,,,0
+2022/2023,Manitoba,2016A000246,International undergraduate,Constant dollars,370,units,0,v1411954055,8.3,17507,,,,0
+2022/2023,Manitoba,2016A000246,International graduate,Constant dollars,370,units,0,v1411954056,8.4,11748,,,,0
+2022/2023,Saskatchewan,2016A000247,Canadian undergraduate,Constant dollars,370,units,0,v1411954057,9.1,8397,,,,0
+2022/2023,Saskatchewan,2016A000247,Canadian graduate,Constant dollars,370,units,0,v1411954058,9.2,4715,,,,0
+2022/2023,Saskatchewan,2016A000247,International undergraduate,Constant dollars,370,units,0,v1411954059,9.3,23275,,,,0
+2022/2023,Saskatchewan,2016A000247,International graduate,Constant dollars,370,units,0,v1411954060,9.4,7388,,,,0
+2022/2023,Alberta,2016A000248,Canadian undergraduate,Constant dollars,370,units,0,v1411954061,10.1,6849,,,,0
+2022/2023,Alberta,2016A000248,Canadian graduate,Constant dollars,370,units,0,v1411954062,10.2,6775,,,,0
+2022/2023,Alberta,2016A000248,International undergraduate,Constant dollars,370,units,0,v1411954063,10.3,28083,,,,0
+2022/2023,Alberta,2016A000248,International graduate,Constant dollars,370,units,0,v1411954064,10.4,15965,,,,0
+2022/2023,British Columbia,2016A000259,Canadian undergraduate,Constant dollars,370,units,0,v1411954065,11.1,5933,,,,0
+2022/2023,British Columbia,2016A000259,Canadian graduate,Constant dollars,370,units,0,v1411954066,11.2,9481,,,,0
+2022/2023,British Columbia,2016A000259,International undergraduate,Constant dollars,370,units,0,v1411954067,11.3,31212,,,,0
+2022/2023,British Columbia,2016A000259,International graduate,Constant dollars,370,units,0,v1411954068,11.4,20628,,,,0
+2022/2023,Yukon,2016A000260,Canadian undergraduate,Constant dollars,370,units,0,v1411954069,12.1,3983,,,,0
+2022/2023,Yukon,2016A000260,Canadian graduate,Constant dollars,370,units,0,v1411954070,12.2,,..,,,0
+2022/2023,Yukon,2016A000260,International undergraduate,Constant dollars,370,units,0,v1411954071,12.3,,..,,,0
+2022/2023,Yukon,2016A000260,International graduate,Constant dollars,370,units,0,v1411954072,12.4,,..,,,0
