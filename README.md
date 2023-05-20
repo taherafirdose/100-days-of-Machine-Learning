@@ -21,3 +21,7 @@ Scatter Plot: An example of creating a scatter plot to visualize the relationshi
 Histogram: An example of creating a histogram to visualize the distribution of a dataset.
 
 Heatmap: An example of creating a heatmap to visualize the correlation between variables in a dataset.
+
+Day6: Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
+
+I explore the various features and capabilities of Plotly and learnt how to create basic plots such as line plots, bar charts, scatter plots, and pie charts. Additionally, explored more advanced visualizations like heatmaps, 3D plots, and animated plots.
