@@ -22,6 +22,12 @@ Histogram: An example of creating a histogram to visualize the distribution of a
 
 Heatmap: An example of creating a heatmap to visualize the correlation between variables in a dataset.
 
-Day6: Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
+Day 6: Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
 
 I explore the various features and capabilities of Plotly and learnt how to create basic plots such as line plots, bar charts, scatter plots, and pie charts. Additionally, explored more advanced visualizations like heatmaps, 3D plots, and animated plots.
+
+Day 7,8,9 - During these three days, I covered a range of SQL concepts and techniques. I started with the basics, such as creating tables, inserting data, and querying data using the SELECT statement and then progress to more advanced topics, including joins, aggregations, subqueries, and data manipulation.
+
+I also solved some question from Leetcode. Refer to PDF for the database questions with solutions
+
+Also followed https://www.youtube.com/@techTFQ and learnt some important concepts like subqueries, joins, windows and normalization.
