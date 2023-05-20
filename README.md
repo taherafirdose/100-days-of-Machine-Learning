@@ -33,5 +33,6 @@ I also solved some question from Leetcode. Refer to PDF for the database questio
 Also followed https://www.youtube.com/@techTFQ and learnt some important concepts like subqueries, joins, windows and normalization.
 
 Day 10 - Data Visualiation using Tableau
+
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9063973e-70d4-4781-8962-a5b812e62290)
 
