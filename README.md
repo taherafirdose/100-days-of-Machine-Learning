@@ -50,3 +50,17 @@ Also followed https://www.youtube.com/@techTFQ and learnt some important concept
 Feature Scaling - Learnt Feature scaling - Standardization and Normalization methods
 Refer to Blog - https://medium.com/p/122bd97cdbfc
 
+# Day 12
+
+Categorical Data encoding - Understood the below encoding techniques for Categorical data
+1. OneHot Encoding or get dummies -Used to convert Nominal categorical data to Numeric data
+2. Ordinal Encoder - Used to convert Ordinal categorical data to Numeric data
+3. Label Encoder - Used to convert target variables from Categorical to Numericcal Data
+
+Please refer to https://www.linkedin.com/feed/update/urn:li:activity:7067400868047794177/ for a complete detail analysis of the categoricaal data with examples
+
+# Day 13
+
+Column Transformer and Pipeline
+![comparision_61645596](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/92a0becd-734e-4938-8bfe-47600b309a06)
+
