@@ -3,7 +3,7 @@
 # Day1 
 Day 1 of learning Numpy! Numpy is a powerful Python library used for numerical computing. It provides a fast and efficient way to work with arrays, and is widely used in the fields of data science, machine learning, and scientific computing.
 
-[code]([url](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Numpy)) 
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Numpy)
 
 # Day2 and 3 
 Day 2 and 3 of learning Pandas! Pandas is a powerful Python library used for data manipulation and analysis. It provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive Refer book - https://github.com/shyamkumarchauhan/learn-python-with-shyam/blob/master/cheatsheet/Pandas-Cookbook-eBook.pdf.
