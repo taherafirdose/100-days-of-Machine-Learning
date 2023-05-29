@@ -12,6 +12,8 @@ Day 2 and 3 of learning Pandas! Pandas is a powerful Python library used for dat
 
 Some More Pandas advanced concepts multiindexing,pivottable, datetime concepts Refer to my blog on pivot table : https://medium.com/@tahera-firdose/exploring-data-with-pivot-tables-in-pandas-a-practical-guide-with-examples-from-the-titanic-938f65f64285
 
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Pandas)
+
 # Day 5 
 data visualization using the Matplotlib library in Python.
 
@@ -28,12 +30,15 @@ Scatter Plot: An example of creating a scatter plot to visualize the relationshi
 Histogram: An example of creating a histogram to visualize the distribution of a dataset.
 
 Heatmap: An example of creating a heatmap to visualize the correlation between variables in a dataset.
-
+ [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib.ipynb)
+ [part2]([url](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib%20Part2.ipynb))
 # Day 6
 
 Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
 
 I explore the various features and capabilities of Plotly and learnt how to create basic plots such as line plots, bar charts, scatter plots, and pie charts. Additionally, explored more advanced visualizations like heatmaps, 3D plots, and animated plots.
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Plotly.ipynb)
 
 # Day 7,8,9 
 
