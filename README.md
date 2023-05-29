@@ -65,6 +65,7 @@ Column Transformer and Pipeline
 ![comparision_61645596](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/92a0becd-734e-4938-8bfe-47600b309a06)
 
 # Day 14 - Handling missing values using dropna
+Handling Missing Values with dropna: I explored into the importance of addressing missing values and explore the dropna method as a popular solution. I discuss the concept of missing values, their consequences, and how the dropna method can simplify data preprocessing.
 
 Refer to blog for complete analysis https://tahera-firdose.medium.com/the-importance-of-handling-missing-values-an-overview-of-the-dropna-method-c70795c04c2c
 
