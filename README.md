@@ -64,3 +64,12 @@ Please refer to https://www.linkedin.com/feed/update/urn:li:activity:70674008680
 Column Transformer and Pipeline
 ![comparision_61645596](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/92a0becd-734e-4938-8bfe-47600b309a06)
 
+# Day 14 - Handling missing values using dropna
+
+Refer to blog for complete analysis https://tahera-firdose.medium.com/the-importance-of-handling-missing-values-an-overview-of-the-dropna-method-c70795c04c2c
+
+# Day 15 - Handling missing values using mean and median
+Missing values can hinder accurate analysis and modeling, but by filling them with the mean and median, we can preserve the overall distribution of the data. In this blog post, I dive into the process, advantages, and limitations of this approach, and demonstrate how to implement it using Python.
+
+https://www.linkedin.com/feed/update/urn:li:activity:7068816645347049472/
+
