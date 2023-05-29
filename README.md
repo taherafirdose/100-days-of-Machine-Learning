@@ -30,8 +30,10 @@ Scatter Plot: An example of creating a scatter plot to visualize the relationshi
 Histogram: An example of creating a histogram to visualize the distribution of a dataset.
 
 Heatmap: An example of creating a heatmap to visualize the correlation between variables in a dataset.
+ 
  [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib.ipynb)
- [part2]([url](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib%20Part2.ipynb))
+ 
+ [part2](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib%20Part2.ipynb)
 # Day 6
 
 Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
@@ -57,6 +59,7 @@ Also followed https://www.youtube.com/@techTFQ and learnt some important concept
 Feature Scaling - Learnt Feature scaling - Standardization and Normalization methods
 Refer to Blog - https://medium.com/p/122bd97cdbfc
 
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Feature%20Scaling)
 # Day 12
 
 Categorical Data encoding - Understood the below encoding techniques for Categorical data
@@ -66,10 +69,14 @@ Categorical Data encoding - Understood the below encoding techniques for Categor
 
 Please refer to https://www.linkedin.com/feed/update/urn:li:activity:7067400868047794177/ for a complete detail analysis of the categoricaal data with examples
 
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Categorical%20data%20Encoding)
+
 # Day 13
 
 Column Transformer and Pipeline
 ![comparision_61645596](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/92a0becd-734e-4938-8bfe-47600b309a06)
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Column%20Transformer%20and%20Pipelines)
 
 # Day 14 - Handling missing values using dropna
 Handling Missing Values with dropna: I explored into the importance of addressing missing values and explore the dropna method as a popular solution. I discuss the concept of missing values, their consequences, and how the dropna method can simplify data preprocessing.
