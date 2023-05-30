@@ -88,3 +88,16 @@ Missing values can hinder accurate analysis and modeling, but by filling them wi
 
 https://www.linkedin.com/feed/update/urn:li:activity:7068816645347049472/
 
+# Day16 - Explored Most Frequent Imputation and Most Frequent Imputation
+
+Most Frequent Imputation: replacing missing values with the most frequently occurring category in the variable.
+Missing Category Imputation: assigning a separate category to represent missing values.
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/Handling%20Categrical%20Data.ipynb)
+
+# Day17 - Random Value Imputation
+
+Random imputation can be considered as an option for filling missing values and refer to https://www.linkedin.com/feed/
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/Random%20Imputation.ipynb)
+
