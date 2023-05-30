@@ -88,7 +88,7 @@ Missing values can hinder accurate analysis and modeling, but by filling them wi
 
 https://www.linkedin.com/feed/update/urn:li:activity:7068816645347049472/
 
-# Day16 - Explored Most Frequent Imputation and Most Frequent Imputation for Categorical data
+# Day16 - Explored Most Frequent Imputation and Missing Category Imputation for Categorical data
 
 Most Frequent Imputation: replacing missing values with the most frequently occurring category in the variable.
 Missing Category Imputation: assigning a separate category to represent missing values.
