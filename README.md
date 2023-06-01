@@ -97,7 +97,7 @@ Missing Category Imputation: assigning a separate category to represent missing 
 
 # Day17 - Random Value Imputation
 
-Random imputation can be considered as an option for filling missing values and refer to https://www.linkedin.com/feed/
+Random imputation involves replacing missing values with randomly selected values from the existing dataset. This approach is useful when the missingness is random and there is no specific pattern or correlation to the missing values. Please refer to https://www.linkedin.com/feed/
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/Random%20Imputation.ipynb)
 
@@ -106,3 +106,5 @@ Random imputation can be considered as an option for filling missing values and 
 KNN Imputation: KNN imputation is a method used to fill in missing values by estimating them from neighboring data points. It is called multivariate because it takes into account multiple variables or features in the dataset to estimate missing values. By considering the values of other variables, KNN imputation leverages relationships and patterns within the data to impute missing values effectively.
 
 For more details please refer to https://medium.com/@tahera-firdose/knn-imputation-an-effective-approach-for-handling-missing-data-5c8bbb45c81a
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/KNN%20Imputation.ipynb)
