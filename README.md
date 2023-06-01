@@ -108,3 +108,15 @@ KNN Imputation: KNN imputation is a method used to fill in missing values by est
 For more details please refer to https://medium.com/@tahera-firdose/knn-imputation-an-effective-approach-for-handling-missing-data-5c8bbb45c81a
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/KNN%20Imputation.ipynb)
+
+# Day 19 and 20
+
+Outliers : Outliers are data points that significantly deviate from the majority of the dataset, potentially indicating unusual or erroneous observations. Handling outliers is crucial in data analysis and modeling to ensure accurate insights and reliable results.
+
+![istockphoto-515066055-1024x1024](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/6bcb60df-9bc9-4f48-a4b8-873a2b43a7a7)
+
+Refer to https://www.linkedin.com/feed/update/urn:li:activity:7070132016687558657/ for complete details.
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Handling%20Outliers)
+
+
