@@ -150,6 +150,14 @@ Also coded the Linear Regression class from scratch and compared the results wit
 
 # Day 25 - Learnt Evaluation Metrics used in Linear Regression
 
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9005856d-2ce4-453a-8579-afaae56d050d)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/f35248cc-b14f-43e6-98ea-b20f1a2b8216)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/6427ebb5-e750-4e62-b447-d66fa3908122)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/c5867b2e-04e4-4f14-b3ef-1bcb9bc7a9b4)
+
 Please refer to blog https://medium.com/@tahera-firdose/understanding-regression-evaluation-metrics-244a106ac30f
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Evaluation%20Metricsipynb) 
