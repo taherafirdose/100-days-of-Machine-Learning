@@ -119,4 +119,33 @@ Refer to https://www.linkedin.com/feed/update/urn:li:activity:707013201668755865
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Handling%20Outliers)
 
+# Day 21 - Learnt key concepts about simple linear regression including the Best Fit Line, Slope, Intercept, and Residual Error.
+📈 What is Simple Linear Regression?
+Simple Linear Regression is a fundamental technique in statistics and machine learning used to establish a relationship between two variables: the dependent variable (y) and the independent variable (x). It aims to find the best fit line that represents the relationship between these variables.
 
+📉 Best Fit Line:
+The Best Fit Line, also known as the Regression Line, is the line that minimizes the overall distance between the observed data points and the predicted values. It serves as a visual representation of the relationship between the independent and dependent variables.
+
+📏 Slope:
+The Slope (m) of the Best Fit Line measures the rate of change of the dependent variable (y) with respect to the independent variable (x). It quantifies the direction and steepness of the line. A positive slope indicates a positive correlation, while a negative slope represents a negative correlation between the variables.
+
+🎯 Intercept:
+The Intercept (b) is the point where the Best Fit Line intersects the y-axis. It represents the predicted value of the dependent variable (y) when the independent variable (x) is zero. The intercept helps determine the initial starting point of the line.
+
+🔍 Residual Error:
+Residual Error, also referred to as Residuals, represents the difference between the observed values and the predicted values on the Best Fit Line. It quantifies how well the regression line fits the data points. Minimizing the residual error is a crucial aspect of Simple Linear Regression.
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Simple%20LInear%20Regression%20using%20Scikit%20learn.ipynb)
+
+# Day 23 and 23 - Understood the Geometric intuition of best fit line using OLS.
+
+Please refer to https://tahera-firdose.medium.com/linear-regression-derivation-of-slope-and-intercept-using-ordinary-least-square-971534ec6b77 for the derivation of Slope and Intercept using OLS.
+
+Also coded the Linear Regression class from scratch and compared the results with ScikitLearn Linear Regression class
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/LinearRegression%20from%20Scratch.ipynb)
+
+# Day 25 - Learnt Evaluation Metrics used in Linear Regression
+
+Please refer to blog https://medium.com/@tahera-firdose/understanding-regression-evaluation-metrics-244a106ac30f
+
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Evaluation%20Metricsipynb) 
