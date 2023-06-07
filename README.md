@@ -120,8 +120,12 @@ Refer to https://www.linkedin.com/feed/update/urn:li:activity:707013201668755865
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Handling%20Outliers)
 
 # Day 21 - Learnt key concepts about simple linear regression including the Best Fit Line, Slope, Intercept, and Residual Error.
+
 📈 What is Simple Linear Regression?
 Simple Linear Regression is a fundamental technique in statistics and machine learning used to establish a relationship between two variables: the dependent variable (y) and the independent variable (x). It aims to find the best fit line that represents the relationship between these variables.
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/7614ce9e-b26f-4c55-a1b6-319931e18cce)
+
 
 📉 Best Fit Line:
 The Best Fit Line, also known as the Regression Line, is the line that minimizes the overall distance between the observed data points and the predicted values. It serves as a visual representation of the relationship between the independent and dependent variables.
