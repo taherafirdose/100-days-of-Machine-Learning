@@ -141,14 +141,14 @@ Residual Error, also referred to as Residuals, represents the difference between
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Simple%20LInear%20Regression%20using%20Scikit%20learn.ipynb)
 
-# Day 23 and 23 - Understood the Geometric intuition of best fit line using OLS.
+# Day 22 and 23 - Understood the Geometric intuition of best fit line using OLS.
 
 Please refer to https://tahera-firdose.medium.com/linear-regression-derivation-of-slope-and-intercept-using-ordinary-least-square-971534ec6b77 for the derivation of Slope and Intercept using OLS.
 
 Also coded the Linear Regression class from scratch and compared the results with ScikitLearn Linear Regression class
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/LinearRegression%20from%20Scratch.ipynb)
 
-# Day 25 - Learnt Evaluation Metrics used in Linear Regression
+# Day 24 - Learnt Evaluation Metrics used in Linear Regression
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9005856d-2ce4-453a-8579-afaae56d050d)
 
