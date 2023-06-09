@@ -160,4 +160,23 @@ Also coded the Linear Regression class from scratch and compared the results wit
 
 Please refer to blog https://medium.com/@tahera-firdose/understanding-regression-evaluation-metrics-244a106ac30f
 
-[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Evaluation%20Metricsipynb) 
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Evaluation%20Metricsipynb)
+
+# Day 25 - Multiple Linear Regression
+
+Multiple linear regression is an extension of simple linear regression, where we aim to model the linear relationship between multiple independent variables and a dependent variable. It assumes that the relationship between the independent variables and the dependent variable is additive, meaning each independent variable contributes independently to the dependent variable.
+
+The Equation:
+In multiple linear regression, we express the relationship between the independent variables (x1, x2, ..., xn) and the dependent variable (y) through the following equation:
+
+y = β0 + β1 * x1 + β2 * x2 + ... + βn * xn + ε
+
+Here, y represents the dependent variable, β0 is the intercept, β1 to βn are the coefficients corresponding to the independent variables, x1 to xn, and ε represents the error term
+
+Estimating Coefficients:
+The coefficients (β0, β1, β2, ..., βn) in the multiple linear regression equation are estimated using various statistical techniques. The most common method is Ordinary Least Squares (OLS), which minimizes the sum of squared differences between the observed and predicted values.
+
+Interpreting Coefficients:
+The coefficients in multiple linear regression indicate the change in the dependent variable corresponding to a one-unit change in the respective independent variable, holding other variables constant. Positive coefficients suggest a positive relationship, while negative coefficients suggest a negative relationship.
+
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Multiple%20Linear%20Regression)
