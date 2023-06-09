@@ -179,7 +179,8 @@ The coefficients (β0, β1, β2, ..., βn) in the multiple linear regression equ
 Interpreting Coefficients:
 The coefficients in multiple linear regression indicate the change in the dependent variable corresponding to a one-unit change in the respective independent variable, holding other variables constant. Positive coefficients suggest a positive relationship, while negative coefficients suggest a negative relationship.
 
-![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/6179a941-54f7-471b-a191-546fb2254c55)
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9cbfed98-a7e8-46cf-b0b9-f6018ca5c87d)
+
 
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Multiple%20Linear%20Regression)
