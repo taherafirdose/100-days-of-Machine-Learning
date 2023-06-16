@@ -184,3 +184,13 @@ The coefficients in multiple linear regression indicate the change in the depend
 
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Multiple%20Linear%20Regression)
+
+#Day 26 and Day 27 - Gradient Descent
+
+Gradient descent is an iterative process that helps us find the minimum or maximum point of a function. The "gradient" refers to the slope or direction of change of the function, much like the steepest downhill direction on a hilly terrain. The "descent" part means moving in the direction opposite to the gradient, taking small steps toward the bottom of the hill. By repeatedly adjusting our position based on the negative gradient, we gradually approach the minimum (or maximum) point, making our way down the slope and finding the optimal value of the function.
+
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/f901b703-f278-4e13-88e5-1f630a96b988)
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Gradient%20Descent) 
+
