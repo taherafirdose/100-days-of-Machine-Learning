@@ -194,3 +194,17 @@ Gradient descent is an iterative process that helps us find the minimum or maxim
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Gradient%20Descent) 
 
+# Day 28 and Day 29 - Learnt About different types of Gradient Descent
+
+**Batch Gradient Descent (BGD)** computes the gradient using the entire training dataset, ensuring stability but being computationally expensive for large datasets.
+
+![Batch G](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/87f007c1-b4d1-4978-84f0-37f6bcb61031)
+
+**Stochastic Gradient Descent (SGD)** takes it further by using one training example at a time, offering efficiency and the potential to find better solutions but with more erratic convergence.
+
+![Stochastic G](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/a5bc1368-c3d9-4600-bb03-23ce2031b555)
+
+**Mini-Batch Gradient Descent (MBGD)** strikes a balance by using subsets of the data, providing faster convergence and parallelization.
+
+![Mini Batch G](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/7847440a-fb62-4484-b72a-716d80b9fb79)
+
