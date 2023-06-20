@@ -216,4 +216,12 @@ Refer to blog https://tahera-firdose.medium.com/understanding-polynomial-regress
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Polynomial%20Regression)
 
+# Day 31 Local and Global Minima
 
+Local Minima: In the context of optimization, a local minimum refers to a point or value in a function where the function reaches the lowest value within a specific region but may not be the lowest value across the entire function.
+
+Global Minima: In optimization, a global minimum is the absolute lowest point or value in a function, meaning it is the lowest value across the entire function domain. It represents the global "valley" or the optimal solution that yields the lowest possible value.
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/881f4483-82f4-458a-a041-ccb91a7f3f7a)
+
+![local_minima_vs_global_minima](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/991dc121-de3f-4993-9403-eaa90b5c95cf)
