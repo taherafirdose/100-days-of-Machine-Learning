@@ -208,3 +208,12 @@ Gradient descent is an iterative process that helps us find the minimum or maxim
 
 ![Mini Batch G](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/7847440a-fb62-4484-b72a-716d80b9fb79)
 
+# Day 30 Polynomial Regression
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/5a6941cd-7e79-48e6-8760-70a6b615dd4d)
+
+Refer to blog https://tahera-firdose.medium.com/understanding-polynomial-regression-603eb25501d
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Polynomial%20Regression)
+
+
