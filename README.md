@@ -225,3 +225,12 @@ Global Minima: In optimization, a global minimum is the absolute lowest point or
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/881f4483-82f4-458a-a041-ccb91a7f3f7a)
 
 ![local_minima_vs_global_minima](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/991dc121-de3f-4993-9403-eaa90b5c95cf)
+
+# Day 32 - Overfitting, Underfitting, Bias Variance Tradeoff
+
+Finding the optimal balance between the bias and Variance  is the key to unlocking model performance and generalization. Refer to blog for enhancing your understanding of this fundamental concept in AI.
+https://medium.com/@tahera-firdose/bias-variance-tradeoffs-61ea08a25f6f
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/e2387f33-ba6b-4224-b1ab-b321692fe5db)
+
+
