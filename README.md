@@ -249,9 +249,13 @@ Ridge regression using gradient descent is an iterative optimization algorithm t
 The key steps involved in Ridge regression using gradient descent are as follows:
 
 Initialize the coefficients.
+
 Calculate the gradient of the objective function with respect to the coefficients.
+
 Update the coefficients by taking steps in the direction of the negative gradient, multiplied by the learning rate.
+
 Repeat steps 2 and 3 until convergence or a maximum number of iterations is reached.
+
 Ridge regression using gradient descent offers more flexibility and scalability compared to the OLS approach. It allows for efficient optimization and can handle larger and more complex datasets. However, it is an approximation method and might require careful tuning of hyperparameters such as the learning rate and regularization parameter to achieve optimal results.
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20_%20Gradient%20Descent.ipynb)
