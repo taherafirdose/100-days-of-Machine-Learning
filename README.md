@@ -233,4 +233,25 @@ https://medium.com/@tahera-firdose/bias-variance-tradeoffs-61ea08a25f6f
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/e2387f33-ba6b-4224-b1ab-b321692fe5db)
 
+# Day 33 Ridge Regression using OLS
 
+ Ridge regression modifies the OLS estimation by introducing a penalty term that controls the magnitude of the coefficients. This tradeoff between fitting the data and shrinking the coefficients helps to find a balance between model complexity and generalization, making Ridge regression a useful technique for handling multicollinearity and reducing model variance.
+
+ ![Ridge-regression-variable-selection](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/d2e340aa-a5a4-4019-a3e3-d85c75fb7152)
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20Regression%20-%20OLS.ipynb) 
+ # Day 34 Ridge Regression using Gradient Descent
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/81564254-7bf1-481c-8371-92f42298cd9d)
+
+Ridge regression using gradient descent is an iterative optimization algorithm that iteratively updates the coefficients by taking steps in the direction of the steepest descent of the objective function. It is a numerical approximation method that can handle large datasets and high-dimensional problems more efficiently. Gradient descent allows for fine-tuning the learning rate and regularization parameter to control the convergence speed and balance between fitting the data and regularization.
+
+The key steps involved in Ridge regression using gradient descent are as follows:
+
+Initialize the coefficients.
+Calculate the gradient of the objective function with respect to the coefficients.
+Update the coefficients by taking steps in the direction of the negative gradient, multiplied by the learning rate.
+Repeat steps 2 and 3 until convergence or a maximum number of iterations is reached.
+Ridge regression using gradient descent offers more flexibility and scalability compared to the OLS approach. It allows for efficient optimization and can handle larger and more complex datasets. However, it is an approximation method and might require careful tuning of hyperparameters such as the learning rate and regularization parameter to achieve optimal results.
+
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20_%20Gradient%20Descent.ipynb)
