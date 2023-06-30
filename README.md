@@ -259,3 +259,11 @@ Repeat steps 2 and 3 until convergence or a maximum number of iterations is reac
 Ridge regression using gradient descent offers more flexibility and scalability compared to the OLS approach. It allows for efficient optimization and can handle larger and more complex datasets. However, it is an approximation method and might require careful tuning of hyperparameters such as the learning rate and regularization parameter to achieve optimal results.
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20_%20Gradient%20Descent.ipynb)
+
+# Day 35 Lasso L1 Regression  
+
+Lasso (Least Absolute Shrinkage and Selection Operator) is a regression technique that performs feature selection and regularization by shrinking less important feature coefficients to zero, leading to sparsity in the model.
+
+Refer to blog for detailed understanding
+
+https://tahera-firdose.medium.com/lasso-regression-a-comprehensive-guide-to-feature-selection-and-regularization-2c6a20b61e23
