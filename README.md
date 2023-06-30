@@ -267,3 +267,15 @@ Lasso (Least Absolute Shrinkage and Selection Operator) is a regression techniqu
 Refer to blog for detailed understanding
 
 https://tahera-firdose.medium.com/lasso-regression-a-comprehensive-guide-to-feature-selection-and-regularization-2c6a20b61e23
+
+# Day 36 Elastic Net regression
+
+Elastic Net regression is a powerful technique that combines the benefits of L1 (Lasso) and L2 (Ridge) regularization methods. It addresses some of the limitations of these individual regularization techniques and offers a flexible approach for handling high-dimensional datasets with potential multicollinearity issues.
+
+The mathematical formulation of Elastic Net regression can be represented as follows:
+
+Minimize:
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/041a0ca3-c80d-4193-8b6d-59bbc72a1d73)
+
+Refer hto blog to learn more on ttps://www.linkedin.com/advice/0/what-some-common-pitfalls-challenges-elastic#:~:text=What%20is%20elastic%20net%20regression,by%20a%20parameter%20called%20alpha.
