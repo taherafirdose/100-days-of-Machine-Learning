@@ -294,3 +294,7 @@ Refer to blog to understand the loss function for Logistic regresion
 
 https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
 
+# Day 39 Log Loss error
+
+Refer to blog for details
+https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a
