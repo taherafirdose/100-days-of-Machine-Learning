@@ -284,6 +284,8 @@ Refer hto blog to learn more on ttps://www.linkedin.com/advice/0/what-some-commo
 
 Please refer to blog to understand the sigmoid function 
 
+https://www.learndatasci.com/glossary/sigmoid-function/
+
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/1d6766f7-a3a5-43bf-b343-02dd2ad09f6b)
 
 # Day 38 Logistic Regression - Loss Functiion
