@@ -279,3 +279,16 @@ Minimize:
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/041a0ca3-c80d-4193-8b6d-59bbc72a1d73)
 
 Refer hto blog to learn more on ttps://www.linkedin.com/advice/0/what-some-common-pitfalls-challenges-elastic#:~:text=What%20is%20elastic%20net%20regression,by%20a%20parameter%20called%20alpha.
+
+# Day 37 Logistic Regression - Sigmoid Function
+
+Please refer to blog to understand the sigmoid function 
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/1d6766f7-a3a5-43bf-b343-02dd2ad09f6b)
+
+# Day 38 Logistic Regression - Loss Functiion
+
+Refer to blog to understand the loss function for Logistic regresion
+
+https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
+
