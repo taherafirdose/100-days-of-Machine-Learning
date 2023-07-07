@@ -321,11 +321,18 @@ Refer to blog: https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/83cd0066-7992-4c94-9381-b96a202bfa87)
 
 
-Please refer to blog to gain the insights and learn about the
+Please refer to blog to gain the insights on this topic
 
 https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-
 
 https://proclusacademy.com/blog/explainer/precision-recall-f1-score-classification-models/
 
 https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
+
+# Day 42 - Multiclass - Softmax regression
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/49456713-c1dc-4da4-b0de-dce9661be301)
+
+Refer to video https://www.youtube.com/watch?v=hYBwBmojXoU to learn about Softmax Regression
+
 
