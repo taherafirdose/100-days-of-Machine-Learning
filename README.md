@@ -321,7 +321,7 @@ Refer to blog:
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/83cd0066-7992-4c94-9381-b96a202bfa87)
 
 
-Please refer to blog
+Please refer to blog to gain the insights and learn about the
 
 https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-
 
