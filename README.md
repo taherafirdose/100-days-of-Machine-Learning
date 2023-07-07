@@ -310,9 +310,22 @@ Refer to blog:
 
 # Day 41 Precision, Recall, F1 score, Confusion Matrix
 
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/5642ff2a-b62c-44cd-8b11-f361ed6a3d23)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/97f3a840-16dd-4167-aae1-4ec6b3d2331d)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9fd75220-850e-45c2-a2b7-c733de8b31ee)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/a3b96f2a-ae5a-48ab-a8ed-f8561b943fa9)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/83cd0066-7992-4c94-9381-b96a202bfa87)
+
+
 Please refer to blog
 
-https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-
+
 https://proclusacademy.com/blog/explainer/precision-recall-f1-score-classification-models/
+
 https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
 
