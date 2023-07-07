@@ -306,7 +306,7 @@ In binary classification, the two classes are often referred to as the positive 
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/31ec4432-5822-4366-9f35-c86b1f53b249)
 
-Refer to blog: 
+Refer to blog: https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/
 
 # Day 41 Precision, Recall, F1 score, Confusion Matrix
 
