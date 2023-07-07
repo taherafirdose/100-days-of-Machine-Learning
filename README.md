@@ -298,3 +298,21 @@ https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii
 
 Refer to blog for details
 https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a
+
+# Day 40 Binary Classification 
+Binary classification is a type of machine learning task that involves categorizing data into one of two classes or categories. The goal of binary classification is to develop a model that can learn from labeled examples and make predictions on new, unseen examples.
+
+In binary classification, the two classes are often referred to as the positive class and the negative class, or class 1 and class 0. The model learns patterns and relationships in the input data to determine which class a new example belongs to. The input data is typically represented by a set of features or attributes that describe each example.
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/31ec4432-5822-4366-9f35-c86b1f53b249)
+
+Refer to blog: 
+
+# Day 41 Precision, Recall, F1 score, Confusion Matrix
+
+Please refer to blog
+
+https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+https://proclusacademy.com/blog/explainer/precision-recall-f1-score-classification-models/
+https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
+
