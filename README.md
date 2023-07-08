@@ -343,6 +343,7 @@ Learnt what is Decision Tree, Entropy and Informational Gain
 Refer to below to learn about Decision Tree
 
  https://blog.paperspace.com/decision-trees/
+ 
  https://www.saedsayad.com/decision_tree.htm
 
 
