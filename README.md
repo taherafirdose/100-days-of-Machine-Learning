@@ -361,3 +361,12 @@ Decision tree hyperparameters are settings that control the behavior and perform
 https://ken-hoffman.medium.com/decision-tree-hyperparameters-explained-49158ee1268e
 
 https://inria.github.io/scikit-learn-mooc/python_scripts/trees_hyperparameters.html
+
+# Day 46 Curse Of Dimensionality
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/b1fdeead-1b89-43e9-aca2-0ef1b53d2819)
+
+https://www.youtube.com/watch?v=L9eNxU-9jBQ
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/961f1fba-8edc-428f-b3d0-21cbcf79b09e)
+
