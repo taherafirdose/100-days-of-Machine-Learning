@@ -346,4 +346,12 @@ Refer to below to learn about Decision Tree
  
  https://www.saedsayad.com/decision_tree.htm
 
+ # Day 44 - Decision Tree - Gini Impurity
+
+A measurement used to build Decision Trees to determine how the features of a dataset should split nodes to form the tree.
+
+Refer to below article to learn about Gini Impurity
+
+ https://www.learndatasci.com/glossary/gini-impurity/
+
 
