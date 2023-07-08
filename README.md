@@ -354,4 +354,10 @@ Refer to below article to learn about Gini Impurity
 
  https://www.learndatasci.com/glossary/gini-impurity/
 
+# Day 45 Decision Tree Hyperparameters
 
+Decision tree hyperparameters are settings that control the behavior and performance of a decision tree algorithm. These parameters are set by the user before training the decision tree model and can greatly influence its effectiveness. 
+
+https://ken-hoffman.medium.com/decision-tree-hyperparameters-explained-49158ee1268e
+
+https://inria.github.io/scikit-learn-mooc/python_scripts/trees_hyperparameters.html
