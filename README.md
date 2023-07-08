@@ -335,4 +335,14 @@ https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
 
 Refer to video https://www.youtube.com/watch?v=hYBwBmojXoU to learn about Softmax Regression
 
+# Day 43 - Decision Tree
+Learnt what is Decision Tree, Entropy and Informational Gain
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/dd039e94-b2bc-43fe-9b50-4b7e8abd8193)
+
+Refer to below to learn about Decision Tree
+
+ https://blog.paperspace.com/decision-trees/
+ https://www.saedsayad.com/decision_tree.htm
+
 
