@@ -370,3 +370,11 @@ https://www.youtube.com/watch?v=L9eNxU-9jBQ
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/961f1fba-8edc-428f-b3d0-21cbcf79b09e)
 
+# Day 47 Cross Validation
+
+Cross-validation is a model evaluation technique that addresses the need to assess a model’s performance on unseen data. It involves dividing the dataset into multiple subsets or “folds” and training the model on some folds while validating it on others.
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/d08c3a6f-ae3e-4306-b3e3-3c0c17423dce)
+
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Cross%20Validation)
+
