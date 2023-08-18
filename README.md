@@ -378,3 +378,18 @@ Cross-validation is a model evaluation technique that addresses the need to asse
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Cross%20Validation)
 
+# Day 48 Ensemble Learning
+Imagine you have a tough decision to make and you seek advice from several experts. Ensemble learning follows a similar principle. Instead of relying on a single machine learning model, ensemble learning combines predictions from multiple models to make a more accurate and robust prediction.
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/ce0c2d32-41d2-4ec4-9feb-058054d4c9b4)
+
+# Day 49 Voting Classifiers
+
+Voting and averaging are two of the easiest examples of ensemble learning in machine learning. They are both easy to understand and implement. Voting is used for classification and averaging is used for regression.
+
+# Day 50 Continuation of Voting Classifier (Hard and Soft Voting)
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3c8d39d6-903e-420f-96ec-d2ce80bda381)
+
+
+
