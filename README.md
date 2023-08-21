@@ -387,6 +387,8 @@ Imagine you have a tough decision to make and you seek advice from several exper
 
 Voting and averaging are two of the easiest examples of ensemble learning in machine learning. They are both easy to understand and implement. Voting is used for classification and averaging is used for regression.
 
+refer to blog https://tahera-firdose.medium.com/maximizing-model-performance-with-voting-ensemble-learning-290a299769d1 to learn more in detail
+
 # Day 50 Continuation of Voting Classifier (Hard and Soft Voting)
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3c8d39d6-903e-420f-96ec-d2ce80bda381)
