@@ -408,6 +408,8 @@ To read more click on (https://medium.com/@tahera-firdose/unveiling-the-ensemble
 
 Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
 
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/f70cd6c3-4aa8-4820-ab43-84019f5f82a6)
+
 To read more click on https://medium.com/@tahera-firdose/exploring-random-forest-algorithm-from-theory-to-practice-with-python-2ab79cb43552
 
 # Day 54 - Random Forest Classifier - HyperParameter Tuning
