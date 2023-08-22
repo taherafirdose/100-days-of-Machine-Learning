@@ -393,5 +393,30 @@ refer to blog https://tahera-firdose.medium.com/maximizing-model-performance-wit
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3c8d39d6-903e-420f-96ec-d2ce80bda381)
 
+# Day 51 and 52 - Bagging
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9c23358e-14e3-4da7-a9da-0bb7fc45d5cf)
+
+Bagging — a technique that encapsulates the wisdom of the crowd by aggregating predictions from multiple models. The name “Bootstrap Aggregating” reveals its two key components:
+
+Bootstrap: A statistical technique involving drawing random samples from a dataset with replacement. This process creates diverse training subsets, each with its unique perspective.
+Aggregating: Combining the outputs of different models to make a final decision. For classification tasks, aggregation often involves majority voting.
+
+To read more click on (https://medium.com/@tahera-firdose/unveiling-the-ensemble-enigma-bagging-your-way-to-supercharged-predictions-e1117a77bf50)
+
+# Day 53 - Random Forest Classifier
+
+Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
+
+To read more click on https://medium.com/@tahera-firdose/exploring-random-forest-algorithm-from-theory-to-practice-with-python-2ab79cb43552
+
+# Day 54 - Random Forest Classifier - HyperParameter Tuning
+Hyperparameter tuning is important for algorithms. It improves their overall performance of a machine learning model and is set before the learning process and happens outside of the model. If hyperparameter tuning does not occur, the model will produce errors and inaccurate results as the loss function is not minimized.
+
+Hyperparameter tuning is about finding a set of optimal hyperparameter values which maximizes the model's performance, minimizes loss and produces better outputs. 
+
+To learn about the different hyper parameters and hypertune using Grid Search cv click on 
+
+
 
 
