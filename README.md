@@ -419,6 +419,24 @@ Hyperparameter tuning is about finding a set of optimal hyperparameter values wh
 
 To learn about the different hyper parameters and hypertune using Grid Search cv click on 
 
+# Day 55 Support Vector Machine
+
+What is Support Vector Machine - The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
+
+![gif](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/ccbd89ab-4668-4787-b8f6-ad89d7257c5f)
+
+To learn more about SVM click on https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+
+# Day 56 - SVM Regressor and Hands on Practise
+
+Support Vector Regression (SVR) is a type of machine learning algorithm used for regression analysis. The goal of SVR is to find a function that approximates the relationship between the input variables and a continuous target variable, while minimizing the prediction error.
+[code](url)
+
+# Day 57 - SVm Classification
+
+Want to learn about this topic click on  https://towardsdatascience.com/machine-learning-basics-support-vector-machine-svm-classification-205ecd28a09d
+
+Code
 
 
 
