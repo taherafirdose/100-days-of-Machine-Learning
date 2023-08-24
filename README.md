@@ -430,13 +430,13 @@ To learn more about SVM click on https://towardsdatascience.com/support-vector-m
 # Day 56 - SVM Regressor and Hands on Practise
 
 Support Vector Regression (SVR) is a type of machine learning algorithm used for regression analysis. The goal of SVR is to find a function that approximates the relationship between the input variables and a continuous target variable, while minimizing the prediction error.
-[code](url)
+[code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/SVM)
 
 # Day 57 - SVm Classification
 
 Want to learn about this topic click on  https://towardsdatascience.com/machine-learning-basics-support-vector-machine-svm-classification-205ecd28a09d
 
-Code
+[Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/SVM)
 
 
 
