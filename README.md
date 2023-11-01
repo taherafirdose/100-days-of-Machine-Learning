@@ -439,4 +439,20 @@ Want to learn about this topic click on  https://towardsdatascience.com/machine-
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/SVM)
 
 
+# Day 58 and 59- Ensemble - Boosting
+AdaBoost, short for Adaptive Boosting, stands as one of the pioneering ensemble learning algorithms
 
+Refer to https://medium.com/@tahera-firdose/boosting-in-machine-learning-adaboost-1d83fa370588 for detailed explaination
+
+# Day 60 Understanding Train, Test, and Validation
+The Training Grounds: Where Models Grow : This is where the seeds of algorithms are sown and nurtured. It's the playground where models learn the patterns, relationships, and intricacies of the data.
+The Validation Valley: Tweaking for Excellence: After training in the grounds, models visit the Validation Valley. Here, their skills are tested, weaknesses identified, and strategies adjusted.
+The Test Terrain: The Ultimate Showdown: A sacred ground, where the final showdown happens. Models, after rigorous training and validation, come here to prove their worth.
+
+Please refer to the blog for details : https://medium.com/@tahera-firdose/understanding-train-test-and-validation-data-why-they-matter-4c0d3a822904
+
+# Day 61: Model Evaluation for Classification: Ke Metrics - Accuracy, Precision, Recall, ROC, and AUC.
+Refer to blog https://medium.com/@tahera-firdose/model-evaluation-for-classification-a-deep-dive-into-key-metrics-aa4009872d9a for deeper understanding
+
+# Day 62 -  Underfitting, Overfitting, and the Bias-Variance Trade-Off
+Refer to blog https://medium.com/@tahera-firdose/the-delicate-balance-underfitting-overfitting-and-the-bias-variance-trade-off-bd1a69069081 for deeper understanding
