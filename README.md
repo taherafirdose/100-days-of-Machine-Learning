@@ -454,5 +454,4 @@ Please refer to the blog for details : https://medium.com/@tahera-firdose/unders
 # Day 61: Model Evaluation for Classification: Ke Metrics - Accuracy, Precision, Recall, ROC, and AUC.
 Refer to blog https://medium.com/@tahera-firdose/model-evaluation-for-classification-a-deep-dive-into-key-metrics-aa4009872d9a for deeper understanding
 
-# Day 62 -  Underfitting, Overfitting, and the Bias-Variance Trade-Off
-Refer to blog https://medium.com/@tahera-firdose/the-delicate-balance-underfitting-overfitting-and-the-bias-variance-trade-off-bd1a69069081 for deeper understanding
+
