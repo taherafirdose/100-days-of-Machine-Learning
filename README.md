@@ -454,4 +454,11 @@ Please refer to the blog for details : https://medium.com/@tahera-firdose/unders
 # Day 61: Model Evaluation for Classification: Ke Metrics - Accuracy, Precision, Recall, ROC, and AUC.
 Refer to blog https://medium.com/@tahera-firdose/model-evaluation-for-classification-a-deep-dive-into-key-metrics-aa4009872d9a for deeper understanding
 
+# Day 62 Introduction to Unsupervised Learning
+From here we will be starting our journey to Unsupervised Learning. Please refer to blog for understanding about Unsupervsied Learning.
+https://tahera-firdose.medium.com/unsupervised-learning-unveiling-the-hidden-patterns-in-data-aca087b65e14
 
+# Day 63 Kmeans Clustering
+K-means clustering is a popular unsupervised machine learning algorithm used for partitioning data points into distinct groups or clusters. The primary objective is to group similar data points together while keeping dissimilar points in separate clusters. The “K” in K-means represents the number of clusters the algorithm should form.
+
+click on https://medium.com/@tahera-firdose/mastering-k-means-clustering-a-guide-for-beginners-8f38f1461809 to lear anout kmeans clustering in detail
