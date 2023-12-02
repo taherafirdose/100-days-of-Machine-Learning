@@ -461,4 +461,9 @@ https://tahera-firdose.medium.com/unsupervised-learning-unveiling-the-hidden-pat
 # Day 63 Kmeans Clustering
 K-means clustering is a popular unsupervised machine learning algorithm used for partitioning data points into distinct groups or clusters. The primary objective is to group similar data points together while keeping dissimilar points in separate clusters. The “K” in K-means represents the number of clusters the algorithm should form.
 
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3cab9a54-adea-4b91-b73c-b8aa296c8180)
+
+
 click on https://medium.com/@tahera-firdose/mastering-k-means-clustering-a-guide-for-beginners-8f38f1461809 to lear anout kmeans clustering in detail
+
+# Day 64 - 
