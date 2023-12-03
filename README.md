@@ -485,7 +485,7 @@ For a more in-depth comprehension of the Silhouette Score, you can explore the f
 For a more profound understanding of hierarchical clustering and its practical applications, you can explore the blog titled "Unlocking the Secrets of Hierarchical Clustering: Finding Patterns in Data." This resource provides comprehensive insights into hierarchical clustering techniques and guides you through the process of uncovering patterns within datasets.
 https://medium.com/@tahera-firdose/unlocking-the-secrets-of-hierarchical-clustering-finding-patterns-in-data-f782c8765d9c
 
-# Day 77 Hierarchical clustering using python 
+# Day 67 Hierarchical clustering using python 
 
 You can find a comprehensive guide on hierarchical clustering in Python by visiting the following Medium blog:
 
