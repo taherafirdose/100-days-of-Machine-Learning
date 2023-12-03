@@ -466,4 +466,33 @@ K-means clustering is a popular unsupervised machine learning algorithm used for
 
 click on https://medium.com/@tahera-firdose/mastering-k-means-clustering-a-guide-for-beginners-8f38f1461809 to lear anout kmeans clustering in detail
 
-# Day 64 - 
+# Day 64 - Understanding the Elbow Method: Finding the Optimal Number of Clusters
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/c116d770-6493-4c05-b1ae-9221f19173cd)
+
+refer to blog to explore about Elbow method https://medium.com/@tahera-firdose/understanding-the-elbow-method-finding-the-optimal-number-of-clusters-68319d773ea3
+
+# Day 65 Understanding the Silhouette Score
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/95995d55-4fb4-4979-98a8-3d586d90fbb6)
+
+For a more in-depth comprehension of the Silhouette Score, you can explore the following blog: "Exploring the Silhouette Score: A Comprehensive Guide" available at this https://medium.com/@tahera-firdose/understanding-the-silhouette-score-fb5109ea28dc for deeper understanding, This resource provides a detailed and comprehensive explanation of the Silhouette Score, offering valuable insights into its significance and practical applications.
+
+# Day 66 Hierarchiical Clustering 
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/08372712-f2e4-43d8-ab4f-386ffc4bfdb2)
+
+For a more profound understanding of hierarchical clustering and its practical applications, you can explore the blog titled "Unlocking the Secrets of Hierarchical Clustering: Finding Patterns in Data." This resource provides comprehensive insights into hierarchical clustering techniques and guides you through the process of uncovering patterns within datasets.
+https://medium.com/@tahera-firdose/unlocking-the-secrets-of-hierarchical-clustering-finding-patterns-in-data-f782c8765d9c
+
+# Day 77 Hierarchical clustering using python 
+
+You can find a comprehensive guide on hierarchical clustering in Python by visiting the following Medium blog:
+
+Title: "Exploring Hierarchical Clustering in Python: Uncovering Data Structures"
+
+Link: Hierarchical Clustering in Python - [Medium Blog](https://medium.com/@tahera-firdose/hierarchical-clustering-in-python-unraveling-data-structures-b646b5abb8df)
+
+This blog provides an in-depth exploration of hierarchical clustering, offering insights into data structures and practical Python implementation. It covers key concepts, step-by-step instructions, and code examples to help you understand and apply hierarchical clustering in your data analysis projects.
+
+
