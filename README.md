@@ -495,4 +495,14 @@ Link: Hierarchical Clustering in Python - [Medium Blog](https://medium.com/@tahe
 
 This blog provides an in-depth exploration of hierarchical clustering, offering insights into data structures and practical Python implementation. It covers key concepts, step-by-step instructions, and code examples to help you understand and apply hierarchical clustering in your data analysis projects.
 
+# Day 68 DBSCAN
+DBSCAN, which stands for Density-Based Spatial Clustering of Applications with Noise, is a clustering algorithm used in machine learning and data analysis. It is designed to group together data points that are close to each other in a feature space and identify regions of high data point density. Unlike traditional clustering algorithms like k-means, DBSCAN does not require the number of clusters to be specified in advance, making it particularly useful for data with irregular shapes and varying cluster densities.
+
+You can refer to the blog post titled "Understanding DBSCAN: Density-Based Spatial Clustering of Applications with Noise" on [Medium](https://medium.com/@tahera-firdose/understanding-dbscan-density-based-spatial-clustering-of-applications-with-noise-891a844ac612) 
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/2fbc2e4d-acd4-49aa-86f9-82e15373677a)
+
+# Day 69 
+explore a detailed Python implementation of DBSCAN for customer segmentation can follow the link to the blog post: Understanding Customer Segmentation with DBSCAN Clustering in Python on [Medium](https://medium.com/@tahera-firdose/understanding-customer-segmentation-with-dbscan-clustering-in-python-5264b5a443e8).
+
 
