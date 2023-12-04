@@ -1,20 +1,20 @@
 # 100-days-of-Machine-Learning
 
-# Day1 
+# Day1,2 and 3
 Day 1 of learning Numpy! Numpy is a powerful Python library used for numerical computing. It provides a fast and efficient way to work with arrays, and is widely used in the fields of data science, machine learning, and scientific computing.
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Numpy)
 
-# Day2 and 3 
+# Day 4, 5 and 6 
 Day 2 and 3 of learning Pandas! Pandas is a powerful Python library used for data manipulation and analysis. It provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive Refer book - https://github.com/shyamkumarchauhan/learn-python-with-shyam/blob/master/cheatsheet/Pandas-Cookbook-eBook.pdf.
 
-# Day4
+# Day 7
 
 Some More Pandas advanced concepts multiindexing,pivottable, datetime concepts Refer to my blog on pivot table : https://medium.com/@tahera-firdose/exploring-data-with-pivot-tables-in-pandas-a-practical-guide-with-examples-from-the-titanic-938f65f64285
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Pandas)
 
-# Day 5 
+# Day 8 
 data visualization using the Matplotlib library in Python.
 
 Matplotlib is a powerful data visualization library widely used by data scientists, analysts, and researchers to create informative and appealing visualizations. It provides a range of tools for creating various types of plots, including line charts, bar charts, scatter plots, histograms, heatmaps, and more.
@@ -34,7 +34,7 @@ Heatmap: An example of creating a heatmap to visualize the correlation between v
  [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib.ipynb)
  
  [part2](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Matplotlib%20Part2.ipynb)
-# Day 6
+# Day 9
 
 Data Visualization using  Plotly, which is a powerful data visualization library in Python. Plotly allows us to create interactive and dynamic visualizations, making it a great tool for exploratory data analysis and storytelling.
 
@@ -42,7 +42,7 @@ I explore the various features and capabilities of Plotly and learnt how to crea
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/DataVisualization/Plotly.ipynb)
 
-# Day 7,8,9 
+# Day 10,11,12 and 13
 
 During these three days, I covered a range of SQL concepts and techniques. I started with the basics, such as creating tables, inserting data, and querying data using the SELECT statement and then progress to more advanced topics, including joins, aggregations, subqueries, and data manipulation.
 
@@ -50,17 +50,17 @@ I also solved some question from Leetcode. Refer to PDF for the database questio
 
 Also followed https://www.youtube.com/@techTFQ and learnt some important concepts like subqueries, joins, windows and normalization.
 
-# Day 10 - Data Visualiation using Tableau
+# Day 14 and 15 - Data Visualiation using Tableau
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9063973e-70d4-4781-8962-a5b812e62290)
 
-# Day 11
+# Day 16
 
 Feature Scaling - Learnt Feature scaling - Standardization and Normalization methods
 Refer to Blog - https://medium.com/p/122bd97cdbfc
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Feature%20Scaling)
-# Day 12
+# Day 17 and 18
 
 Categorical Data encoding - Understood the below encoding techniques for Categorical data
 1. OneHot Encoding or get dummies -Used to convert Nominal categorical data to Numeric data
@@ -71,37 +71,37 @@ Please refer to https://www.linkedin.com/feed/update/urn:li:activity:70674008680
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Categorical%20data%20Encoding)
 
-# Day 13
+# Day 19
 
 Column Transformer and Pipeline
 ![comparision_61645596](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/92a0becd-734e-4938-8bfe-47600b309a06)
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Column%20Transformer%20and%20Pipelines)
 
-# Day 14 - Handling missing values using dropna
+# Day 20 - Handling missing values using dropna
 Handling Missing Values with dropna: I explored into the importance of addressing missing values and explore the dropna method as a popular solution. I discuss the concept of missing values, their consequences, and how the dropna method can simplify data preprocessing.
 
 Refer to blog for complete analysis https://tahera-firdose.medium.com/the-importance-of-handling-missing-values-an-overview-of-the-dropna-method-c70795c04c2c
 
-# Day 15 - Handling missing values using mean and median
+# Day 21 - Handling missing values using mean and median
 Missing values can hinder accurate analysis and modeling, but by filling them with the mean and median, we can preserve the overall distribution of the data. In this blog post, I dive into the process, advantages, and limitations of this approach, and demonstrate how to implement it using Python.
 
 https://www.linkedin.com/feed/update/urn:li:activity:7068816645347049472/
 
-# Day16 - Explored Most Frequent Imputation and Missing Category Imputation for Categorical data
+# Day 22 - Explored Most Frequent Imputation and Missing Category Imputation for Categorical data
 
 Most Frequent Imputation: replacing missing values with the most frequently occurring category in the variable.
 Missing Category Imputation: assigning a separate category to represent missing values.
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/Handling%20Categrical%20Data.ipynb)
 
-# Day17 - Random Value Imputation
+# Day 23 - Random Value Imputation
 
 Random imputation involves replacing missing values with randomly selected values from the existing dataset. This approach is useful when the missingness is random and there is no specific pattern or correlation to the missing values. Please refer to https://www.linkedin.com/feed/
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/Random%20Imputation.ipynb)
 
-# Day 18 - KNN Imputation
+# Day 24 - KNN Imputation
 
 KNN Imputation: KNN imputation is a method used to fill in missing values by estimating them from neighboring data points. It is called multivariate because it takes into account multiple variables or features in the dataset to estimate missing values. By considering the values of other variables, KNN imputation leverages relationships and patterns within the data to impute missing values effectively.
 
@@ -109,7 +109,7 @@ For more details please refer to https://medium.com/@tahera-firdose/knn-imputati
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Handling%20Missing%20Data/KNN%20Imputation.ipynb)
 
-# Day 19 and 20
+# Day 25 and 26
 
 Outliers : Outliers are data points that significantly deviate from the majority of the dataset, potentially indicating unusual or erroneous observations. Handling outliers is crucial in data analysis and modeling to ensure accurate insights and reliable results.
 
@@ -119,7 +119,7 @@ Refer to https://www.linkedin.com/feed/update/urn:li:activity:707013201668755865
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Handling%20Outliers)
 
-# Day 21 - Learnt key concepts about simple linear regression including the Best Fit Line, Slope, Intercept, and Residual Error.
+# Day 27 - Learnt key concepts about simple linear regression including the Best Fit Line, Slope, Intercept, and Residual Error.
 
 📈 What is Simple Linear Regression?
 Simple Linear Regression is a fundamental technique in statistics and machine learning used to establish a relationship between two variables: the dependent variable (y) and the independent variable (x). It aims to find the best fit line that represents the relationship between these variables.
@@ -141,14 +141,14 @@ Residual Error, also referred to as Residuals, represents the difference between
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Simple%20LInear%20Regression%20using%20Scikit%20learn.ipynb)
 
-# Day 22 and 23 - Understood the Geometric intuition of best fit line using OLS.
+# Day 28 and 29 - Understood the Geometric intuition of best fit line using OLS.
 
 Please refer to https://tahera-firdose.medium.com/linear-regression-derivation-of-slope-and-intercept-using-ordinary-least-square-971534ec6b77 for the derivation of Slope and Intercept using OLS.
 
 Also coded the Linear Regression class from scratch and compared the results with ScikitLearn Linear Regression class
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/LinearRegression%20from%20Scratch.ipynb)
 
-# Day 24 - Learnt Evaluation Metrics used in Linear Regression
+# Day 30 - Learnt Evaluation Metrics used in Linear Regression
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9005856d-2ce4-453a-8579-afaae56d050d)
 
@@ -162,7 +162,7 @@ Please refer to blog https://medium.com/@tahera-firdose/understanding-regression
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Simple%20Linear%20Regression/Evaluation%20Metricsipynb)
 
-# Day 25 - Multiple Linear Regression
+# Day 31 - Multiple Linear Regression
 
 Multiple linear regression is an extension of simple linear regression, where we aim to model the linear relationship between multiple independent variables and a dependent variable. It assumes that the relationship between the independent variables and the dependent variable is additive, meaning each independent variable contributes independently to the dependent variable.
 
@@ -185,7 +185,7 @@ The coefficients in multiple linear regression indicate the change in the depend
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Multiple%20Linear%20Regression)
 
-# Day 26 and Day 27 - Gradient Descent
+# Day 32 and 33 - Gradient Descent
 
 Gradient descent is an iterative process that helps us find the minimum or maximum point of a function. The "gradient" refers to the slope or direction of change of the function, much like the steepest downhill direction on a hilly terrain. The "descent" part means moving in the direction opposite to the gradient, taking small steps toward the bottom of the hill. By repeatedly adjusting our position based on the negative gradient, we gradually approach the minimum (or maximum) point, making our way down the slope and finding the optimal value of the function.
 
@@ -194,7 +194,7 @@ Gradient descent is an iterative process that helps us find the minimum or maxim
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Gradient%20Descent) 
 
-# Day 28 and Day 29 - Learnt About different types of Gradient Descent
+# Day 34, 35 and 36 - Learnt About different types of Gradient Descent
 
 **Batch Gradient Descent (BGD)** computes the gradient using the entire training dataset, ensuring stability but being computationally expensive for large datasets.
 
@@ -208,7 +208,7 @@ Gradient descent is an iterative process that helps us find the minimum or maxim
 
 ![Mini Batch G](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/7847440a-fb62-4484-b72a-716d80b9fb79)
 
-# Day 30 Polynomial Regression
+# Day 37 Polynomial Regression
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/5a6941cd-7e79-48e6-8760-70a6b615dd4d)
 
@@ -216,7 +216,7 @@ Refer to blog https://tahera-firdose.medium.com/understanding-polynomial-regress
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Polynomial%20Regression)
 
-# Day 31 Local and Global Minima
+# Day 38 Local and Global Minima
 
 Local Minima: In the context of optimization, a local minimum refers to a point or value in a function where the function reaches the lowest value within a specific region but may not be the lowest value across the entire function.
 
@@ -226,21 +226,22 @@ Global Minima: In optimization, a global minimum is the absolute lowest point or
 
 ![local_minima_vs_global_minima](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/991dc121-de3f-4993-9403-eaa90b5c95cf)
 
-# Day 32 - Overfitting, Underfitting, Bias Variance Tradeoff
+# Day 39 - Overfitting, Underfitting, Bias Variance Tradeoff
 
 Finding the optimal balance between the bias and Variance  is the key to unlocking model performance and generalization. Refer to blog for enhancing your understanding of this fundamental concept in AI.
 https://medium.com/@tahera-firdose/bias-variance-tradeoffs-61ea08a25f6f
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/e2387f33-ba6b-4224-b1ab-b321692fe5db)
 
-# Day 33 Ridge Regression using OLS
+# Day 40 Ridge Regression using OLS
 
  Ridge regression modifies the OLS estimation by introducing a penalty term that controls the magnitude of the coefficients. This tradeoff between fitting the data and shrinking the coefficients helps to find a balance between model complexity and generalization, making Ridge regression a useful technique for handling multicollinearity and reducing model variance.
 
  ![Ridge-regression-variable-selection](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/d2e340aa-a5a4-4019-a3e3-d85c75fb7152)
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20Regression%20-%20OLS.ipynb) 
- # Day 34 Ridge Regression using Gradient Descent
+
+ # Day 41 Ridge Regression using Gradient Descent
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/81564254-7bf1-481c-8371-92f42298cd9d)
 
@@ -260,7 +261,7 @@ Ridge regression using gradient descent offers more flexibility and scalability 
 
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/blob/master/Ridge%20Regression/Ridge%20_%20Gradient%20Descent.ipynb)
 
-# Day 35 Lasso L1 Regression  
+# Day 42 Lasso L1 Regression  
 
 Lasso (Least Absolute Shrinkage and Selection Operator) is a regression technique that performs feature selection and regularization by shrinking less important feature coefficients to zero, leading to sparsity in the model.
 
@@ -268,7 +269,7 @@ Refer to blog for detailed understanding
 
 https://tahera-firdose.medium.com/lasso-regression-a-comprehensive-guide-to-feature-selection-and-regularization-2c6a20b61e23
 
-# Day 36 Elastic Net regression
+# Day 43 Elastic Net regression
 
 Elastic Net regression is a powerful technique that combines the benefits of L1 (Lasso) and L2 (Ridge) regularization methods. It addresses some of the limitations of these individual regularization techniques and offers a flexible approach for handling high-dimensional datasets with potential multicollinearity issues.
 
@@ -280,7 +281,7 @@ Minimize:
 
 Refer hto blog to learn more on ttps://www.linkedin.com/advice/0/what-some-common-pitfalls-challenges-elastic#:~:text=What%20is%20elastic%20net%20regression,by%20a%20parameter%20called%20alpha.
 
-# Day 37 Logistic Regression - Sigmoid Function
+# Day 44 Logistic Regression - Sigmoid Function
 
 Please refer to blog to understand the sigmoid function 
 
@@ -288,18 +289,18 @@ https://www.learndatasci.com/glossary/sigmoid-function/
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/1d6766f7-a3a5-43bf-b343-02dd2ad09f6b)
 
-# Day 38 Logistic Regression - Loss Functiion
+# Day 45 Logistic Regression - Loss Functiion
 
 Refer to blog to understand the loss function for Logistic regresion
 
 https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
 
-# Day 39 Log Loss error
+# Day 46 Log Loss error
 
 Refer to blog for details
 https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a
 
-# Day 40 Binary Classification 
+# Day 47 Binary Classification 
 Binary classification is a type of machine learning task that involves categorizing data into one of two classes or categories. The goal of binary classification is to develop a model that can learn from labeled examples and make predictions on new, unseen examples.
 
 In binary classification, the two classes are often referred to as the positive class and the negative class, or class 1 and class 0. The model learns patterns and relationships in the input data to determine which class a new example belongs to. The input data is typically represented by a set of features or attributes that describe each example.
@@ -308,7 +309,7 @@ In binary classification, the two classes are often referred to as the positive 
 
 Refer to blog: https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/
 
-# Day 41 Precision, Recall, F1 score, Confusion Matrix
+# Day 48 and 49 Precision, Recall, F1 score, Confusion Matrix
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/5642ff2a-b62c-44cd-8b11-f361ed6a3d23)
 
@@ -329,13 +330,13 @@ https://proclusacademy.com/blog/explainer/precision-recall-f1-score-classificati
 
 https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
 
-# Day 42 - Multiclass - Softmax regression
+# Day 50 - Multiclass - Softmax regression
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/49456713-c1dc-4da4-b0de-dce9661be301)
 
 Refer to video https://www.youtube.com/watch?v=hYBwBmojXoU to learn about Softmax Regression
 
-# Day 43 - Decision Tree
+# Day 51 - Decision Tree
 Learnt what is Decision Tree, Entropy and Informational Gain
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/dd039e94-b2bc-43fe-9b50-4b7e8abd8193)
@@ -346,7 +347,7 @@ Refer to below to learn about Decision Tree
  
  https://www.saedsayad.com/decision_tree.htm
 
- # Day 44 - Decision Tree - Gini Impurity
+ # Day 52 - Decision Tree - Gini Impurity
 
 A measurement used to build Decision Trees to determine how the features of a dataset should split nodes to form the tree.
 
@@ -354,7 +355,7 @@ Refer to below article to learn about Gini Impurity
 
  https://www.learndatasci.com/glossary/gini-impurity/
 
-# Day 45 Decision Tree Hyperparameters
+# Day 53 Decision Tree Hyperparameters
 
 Decision tree hyperparameters are settings that control the behavior and performance of a decision tree algorithm. These parameters are set by the user before training the decision tree model and can greatly influence its effectiveness. 
 
@@ -362,7 +363,7 @@ https://ken-hoffman.medium.com/decision-tree-hyperparameters-explained-49158ee12
 
 https://inria.github.io/scikit-learn-mooc/python_scripts/trees_hyperparameters.html
 
-# Day 46 Curse Of Dimensionality
+# Day 54 Curse Of Dimensionality
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/b1fdeead-1b89-43e9-aca2-0ef1b53d2819)
 
@@ -370,7 +371,7 @@ https://www.youtube.com/watch?v=L9eNxU-9jBQ
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/961f1fba-8edc-428f-b3d0-21cbcf79b09e)
 
-# Day 47 Cross Validation
+# Day 55 Cross Validation
 
 Cross-validation is a model evaluation technique that addresses the need to assess a model’s performance on unseen data. It involves dividing the dataset into multiple subsets or “folds” and training the model on some folds while validating it on others.
 
@@ -378,22 +379,22 @@ Cross-validation is a model evaluation technique that addresses the need to asse
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/Cross%20Validation)
 
-# Day 48 Ensemble Learning
+# Day 56 Ensemble Learning
 Imagine you have a tough decision to make and you seek advice from several experts. Ensemble learning follows a similar principle. Instead of relying on a single machine learning model, ensemble learning combines predictions from multiple models to make a more accurate and robust prediction.
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/ce0c2d32-41d2-4ec4-9feb-058054d4c9b4)
 
-# Day 49 Voting Classifiers
+# Day 57 Voting Classifiers
 
 Voting and averaging are two of the easiest examples of ensemble learning in machine learning. They are both easy to understand and implement. Voting is used for classification and averaging is used for regression.
 
 refer to blog https://tahera-firdose.medium.com/maximizing-model-performance-with-voting-ensemble-learning-290a299769d1 to learn more in detail
 
-# Day 50 Continuation of Voting Classifier (Hard and Soft Voting)
+# Day 58 Continuation of Voting Classifier (Hard and Soft Voting)
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3c8d39d6-903e-420f-96ec-d2ce80bda381)
 
-# Day 51 and 52 - Bagging
+# Day 59 and 60 - Bagging
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/9c23358e-14e3-4da7-a9da-0bb7fc45d5cf)
 
@@ -404,7 +405,7 @@ Aggregating: Combining the outputs of different models to make a final decision.
 
 To read more click on (https://medium.com/@tahera-firdose/unveiling-the-ensemble-enigma-bagging-your-way-to-supercharged-predictions-e1117a77bf50)
 
-# Day 53 - Random Forest Classifier
+# Day 61 - Random Forest Classifier
 
 Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
 
@@ -412,14 +413,14 @@ Random forest is a commonly-used machine learning algorithm trademarked by Leo B
 
 To read more click on https://medium.com/@tahera-firdose/exploring-random-forest-algorithm-from-theory-to-practice-with-python-2ab79cb43552
 
-# Day 54 - Random Forest Classifier - HyperParameter Tuning
+# Day 62 - Random Forest Classifier - HyperParameter Tuning
 Hyperparameter tuning is important for algorithms. It improves their overall performance of a machine learning model and is set before the learning process and happens outside of the model. If hyperparameter tuning does not occur, the model will produce errors and inaccurate results as the loss function is not minimized.
 
 Hyperparameter tuning is about finding a set of optimal hyperparameter values which maximizes the model's performance, minimizes loss and produces better outputs. 
 
 To learn about the different hyper parameters and hypertune using Grid Search cv click on 
 
-# Day 55 Support Vector Machine
+# Day 63 Support Vector Machine
 
 What is Support Vector Machine - The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
 
@@ -427,38 +428,38 @@ What is Support Vector Machine - The objective of the support vector machine alg
 
 To learn more about SVM click on https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
 
-# Day 56 - SVM Regressor and Hands on Practise
+# Day 64 - SVM Regressor and Hands on Practise
 
 Support Vector Regression (SVR) is a type of machine learning algorithm used for regression analysis. The goal of SVR is to find a function that approximates the relationship between the input variables and a continuous target variable, while minimizing the prediction error.
 [code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/SVM)
 
-# Day 57 - SVm Classification
+# Day 65 - SVm Classification
 
 Want to learn about this topic click on  https://towardsdatascience.com/machine-learning-basics-support-vector-machine-svm-classification-205ecd28a09d
 
 [Code](https://github.com/taherafirdose/100-days-of-Machine-Learning/tree/master/SVM)
 
 
-# Day 58 and 59- Ensemble - Boosting
+# Day 66 and 67- Ensemble - Boosting
 AdaBoost, short for Adaptive Boosting, stands as one of the pioneering ensemble learning algorithms
 
 Refer to https://medium.com/@tahera-firdose/boosting-in-machine-learning-adaboost-1d83fa370588 for detailed explaination
 
-# Day 60 Understanding Train, Test, and Validation
+# Day 68 Understanding Train, Test, and Validation
 The Training Grounds: Where Models Grow : This is where the seeds of algorithms are sown and nurtured. It's the playground where models learn the patterns, relationships, and intricacies of the data.
 The Validation Valley: Tweaking for Excellence: After training in the grounds, models visit the Validation Valley. Here, their skills are tested, weaknesses identified, and strategies adjusted.
 The Test Terrain: The Ultimate Showdown: A sacred ground, where the final showdown happens. Models, after rigorous training and validation, come here to prove their worth.
 
 Please refer to the blog for details : https://medium.com/@tahera-firdose/understanding-train-test-and-validation-data-why-they-matter-4c0d3a822904
 
-# Day 61: Model Evaluation for Classification: Ke Metrics - Accuracy, Precision, Recall, ROC, and AUC.
+# Day 69: Model Evaluation for Classification: Ke Metrics - Accuracy, Precision, Recall, ROC, and AUC.
 Refer to blog https://medium.com/@tahera-firdose/model-evaluation-for-classification-a-deep-dive-into-key-metrics-aa4009872d9a for deeper understanding
 
-# Day 62 Introduction to Unsupervised Learning
+# Day 70 Introduction to Unsupervised Learning
 From here we will be starting our journey to Unsupervised Learning. Please refer to blog for understanding about Unsupervsied Learning.
 https://tahera-firdose.medium.com/unsupervised-learning-unveiling-the-hidden-patterns-in-data-aca087b65e14
 
-# Day 63 Kmeans Clustering
+# Day 71 Kmeans Clustering
 K-means clustering is a popular unsupervised machine learning algorithm used for partitioning data points into distinct groups or clusters. The primary objective is to group similar data points together while keeping dissimilar points in separate clusters. The “K” in K-means represents the number of clusters the algorithm should form.
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/3cab9a54-adea-4b91-b73c-b8aa296c8180)
@@ -466,26 +467,26 @@ K-means clustering is a popular unsupervised machine learning algorithm used for
 
 click on https://medium.com/@tahera-firdose/mastering-k-means-clustering-a-guide-for-beginners-8f38f1461809 to lear anout kmeans clustering in detail
 
-# Day 64 - Understanding the Elbow Method: Finding the Optimal Number of Clusters
+# Day 72 - Understanding the Elbow Method: Finding the Optimal Number of Clusters
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/c116d770-6493-4c05-b1ae-9221f19173cd)
 
 refer to blog to explore about Elbow method https://medium.com/@tahera-firdose/understanding-the-elbow-method-finding-the-optimal-number-of-clusters-68319d773ea3
 
-# Day 65 Understanding the Silhouette Score
+# Day 73 Understanding the Silhouette Score
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/95995d55-4fb4-4979-98a8-3d586d90fbb6)
 
 For a more in-depth comprehension of the Silhouette Score, you can explore the following blog: "Exploring the Silhouette Score: A Comprehensive Guide" available at this https://medium.com/@tahera-firdose/understanding-the-silhouette-score-fb5109ea28dc for deeper understanding, This resource provides a detailed and comprehensive explanation of the Silhouette Score, offering valuable insights into its significance and practical applications.
 
-# Day 66 Hierarchiical Clustering 
+# Day 74 Hierarchiical Clustering 
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/08372712-f2e4-43d8-ab4f-386ffc4bfdb2)
 
 For a more profound understanding of hierarchical clustering and its practical applications, you can explore the blog titled "Unlocking the Secrets of Hierarchical Clustering: Finding Patterns in Data." This resource provides comprehensive insights into hierarchical clustering techniques and guides you through the process of uncovering patterns within datasets.
 https://medium.com/@tahera-firdose/unlocking-the-secrets-of-hierarchical-clustering-finding-patterns-in-data-f782c8765d9c
 
-# Day 67 Hierarchical clustering using python 
+# Day 75 Hierarchical clustering using python 
 
 You can find a comprehensive guide on hierarchical clustering in Python by visiting the following Medium blog:
 
@@ -495,14 +496,19 @@ Link: Hierarchical Clustering in Python - [Medium Blog](https://medium.com/@tahe
 
 This blog provides an in-depth exploration of hierarchical clustering, offering insights into data structures and practical Python implementation. It covers key concepts, step-by-step instructions, and code examples to help you understand and apply hierarchical clustering in your data analysis projects.
 
-# Day 68 DBSCAN
+# Day 76 DBSCAN
 DBSCAN, which stands for Density-Based Spatial Clustering of Applications with Noise, is a clustering algorithm used in machine learning and data analysis. It is designed to group together data points that are close to each other in a feature space and identify regions of high data point density. Unlike traditional clustering algorithms like k-means, DBSCAN does not require the number of clusters to be specified in advance, making it particularly useful for data with irregular shapes and varying cluster densities.
 
 You can refer to the blog post titled "Understanding DBSCAN: Density-Based Spatial Clustering of Applications with Noise" on [Medium](https://medium.com/@tahera-firdose/understanding-dbscan-density-based-spatial-clustering-of-applications-with-noise-891a844ac612) 
 
 ![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/2fbc2e4d-acd4-49aa-86f9-82e15373677a)
 
-# Day 69 
+# Day 77 : Practical Implementation of DBSCAN 
 explore a detailed Python implementation of DBSCAN for customer segmentation can follow the link to the blog post: Understanding Customer Segmentation with DBSCAN Clustering in Python on [Medium](https://medium.com/@tahera-firdose/understanding-customer-segmentation-with-dbscan-clustering-in-python-5264b5a443e8).
+
+# Day 78 Comparing Hierarchical, K-Means, and DBSCAN Clustering Algorithms in Python
+
+You can gain insights into the distinctions among Hierarchical, DBSCAN, and K-means clustering algorithms by referring to the following blog post:
+https://tahera-firdose.medium.com/understanding-clustering-algorithms-36f3652c8f33
 
 
