@@ -511,4 +511,20 @@ explore a detailed Python implementation of DBSCAN for customer segmentation can
 You can gain insights into the distinctions among Hierarchical, DBSCAN, and K-means clustering algorithms by referring to the following blog post:
 https://tahera-firdose.medium.com/understanding-clustering-algorithms-36f3652c8f33
 
+# Day 79 and 80
+Principal Component Analysis (PCA) is a statistical method that simplifies complex data while retaining important information. It does this by transforming high-dimensional data into a lower-dimensional representation, where the new dimensions, known as principal components, capture the most significant variance in the original data. 
+
+![image](https://github.com/taherafirdose/100-days-of-Machine-Learning/assets/66288578/06a8596e-a83f-4fdd-8823-43f07b19754f)
+
+To learn more about PCA. refer to below blogs
+https://www.keboola.com/blog/pca-machine-learning#:~:text=Principal%20Component%20Analysis%20(PCA)%20is,%2Dnoising%2C%20and%20plenty%20more.
+https://www.analyticsvidhya.com/blog/2022/07/principal-component-analysis-beginner-friendly/
+
+# Day 81 to 100
+
+Went through Some Machine learning Projects.
+https://medium.datadriveninvestor.com/10-machine-learning-projects-on-classification-with-python-9261add2e8a7
+https://amankharwal.medium.com/10-machine-learning-projects-on-regression-with-python-e5494615a0d0
+https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
+https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
 
